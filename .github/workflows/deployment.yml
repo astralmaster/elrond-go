@@ -2,7 +2,7 @@
 
 name: Build and Deploy Testnet
 
-# Explicitly trigger this workflow from the web interface: https://github.com/ElrondNetwork/elrond-go/actions
+# Explicitly trigger this workflow from the web interface: https://github.com/astralmaster/elrond-go/actions
 on:
   workflow_dispatch
 

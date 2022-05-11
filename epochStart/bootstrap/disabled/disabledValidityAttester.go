@@ -2,7 +2,7 @@ package disabled
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 var _ process.ValidityAttester = (*validityAttester)(nil)

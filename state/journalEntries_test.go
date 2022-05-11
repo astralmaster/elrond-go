@@ -5,10 +5,10 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/state"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
-	stateMock "github.com/ElrondNetwork/elrond-go/testscommon/state"
-	trieMock "github.com/ElrondNetwork/elrond-go/testscommon/trie"
+	"github.com/astralmaster/elrond-go/state"
+	"github.com/astralmaster/elrond-go/testscommon"
+	stateMock "github.com/astralmaster/elrond-go/testscommon/state"
+	trieMock "github.com/astralmaster/elrond-go/testscommon/trie"
 	"github.com/stretchr/testify/assert"
 )
 

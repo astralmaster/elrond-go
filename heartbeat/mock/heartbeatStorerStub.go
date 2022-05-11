@@ -3,7 +3,7 @@ package mock
 import (
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/heartbeat/data"
+	"github.com/astralmaster/elrond-go/heartbeat/data"
 )
 
 // HeartbeatStorerStub -

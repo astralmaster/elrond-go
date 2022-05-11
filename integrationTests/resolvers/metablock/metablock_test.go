@@ -6,10 +6,10 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/data"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/integrationTests"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/resolvers"
-	"github.com/ElrondNetwork/elrond-go/process/factory"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/integrationTests"
+	"github.com/astralmaster/elrond-go/integrationTests/resolvers"
+	"github.com/astralmaster/elrond-go/process/factory"
 	"github.com/stretchr/testify/assert"
 )
 

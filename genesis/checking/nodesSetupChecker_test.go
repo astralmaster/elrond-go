@@ -6,11 +6,11 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/genesis"
-	"github.com/ElrondNetwork/elrond-go/genesis/checking"
-	"github.com/ElrondNetwork/elrond-go/genesis/data"
-	"github.com/ElrondNetwork/elrond-go/genesis/mock"
-	"github.com/ElrondNetwork/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/genesis"
+	"github.com/astralmaster/elrond-go/genesis/checking"
+	"github.com/astralmaster/elrond-go/genesis/data"
+	"github.com/astralmaster/elrond-go/genesis/mock"
+	"github.com/astralmaster/elrond-go/sharding"
 	"github.com/stretchr/testify/assert"
 )
 

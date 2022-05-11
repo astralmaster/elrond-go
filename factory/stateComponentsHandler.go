@@ -5,9 +5,9 @@ import (
 	"sync"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/errors"
-	"github.com/ElrondNetwork/elrond-go/state"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/errors"
+	"github.com/astralmaster/elrond-go/state"
 )
 
 var _ ComponentHandler = (*managedStateComponents)(nil)

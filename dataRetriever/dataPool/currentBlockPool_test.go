@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/data/transaction"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/dataRetriever"
 	"github.com/stretchr/testify/require"
 )
 

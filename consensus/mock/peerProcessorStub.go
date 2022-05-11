@@ -2,7 +2,7 @@ package mock
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
-	"github.com/ElrondNetwork/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/sharding"
 )
 
 // ValidatorStatisticsProcessorStub -

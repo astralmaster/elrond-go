@@ -5,7 +5,7 @@ import (
 
 	covalentFactory "github.com/ElrondNetwork/covalent-indexer-go/factory"
 	indexerFactory "github.com/ElrondNetwork/elastic-indexer-go/factory"
-	"github.com/ElrondNetwork/elrond-go/outport"
+	"github.com/astralmaster/elrond-go/outport"
 	notifierFactory "github.com/ElrondNetwork/notifier-go/factory"
 )
 

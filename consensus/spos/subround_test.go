@@ -7,10 +7,10 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/consensus/mock"
-	"github.com/ElrondNetwork/elrond-go/consensus/spos"
-	"github.com/ElrondNetwork/elrond-go/consensus/spos/bls"
-	"github.com/ElrondNetwork/elrond-go/testscommon/statusHandler"
+	"github.com/astralmaster/elrond-go/consensus/mock"
+	"github.com/astralmaster/elrond-go/consensus/spos"
+	"github.com/astralmaster/elrond-go/consensus/spos/bls"
+	"github.com/astralmaster/elrond-go/testscommon/statusHandler"
 	"github.com/stretchr/testify/assert"
 )
 

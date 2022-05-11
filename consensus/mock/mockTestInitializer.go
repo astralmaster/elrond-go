@@ -6,11 +6,11 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
 	"github.com/ElrondNetwork/elrond-go-crypto"
-	"github.com/ElrondNetwork/elrond-go/consensus"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
-	consensusMocks "github.com/ElrondNetwork/elrond-go/testscommon/consensus"
-	"github.com/ElrondNetwork/elrond-go/testscommon/cryptoMocks"
-	"github.com/ElrondNetwork/elrond-go/testscommon/hashingMocks"
+	"github.com/astralmaster/elrond-go/consensus"
+	"github.com/astralmaster/elrond-go/testscommon"
+	consensusMocks "github.com/astralmaster/elrond-go/testscommon/consensus"
+	"github.com/astralmaster/elrond-go/testscommon/cryptoMocks"
+	"github.com/astralmaster/elrond-go/testscommon/hashingMocks"
 )
 
 // InitChronologyHandlerMock -

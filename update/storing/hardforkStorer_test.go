@@ -8,9 +8,9 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	storageStubs "github.com/ElrondNetwork/elrond-go/testscommon/storage"
-	"github.com/ElrondNetwork/elrond-go/update"
-	"github.com/ElrondNetwork/elrond-go/update/mock"
+	storageStubs "github.com/astralmaster/elrond-go/testscommon/storage"
+	"github.com/astralmaster/elrond-go/update"
+	"github.com/astralmaster/elrond-go/update/mock"
 	"github.com/stretchr/testify/assert"
 )
 

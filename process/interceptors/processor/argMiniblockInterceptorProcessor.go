@@ -3,9 +3,9 @@ package processor
 import (
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/sharding"
-	"github.com/ElrondNetwork/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/storage"
 )
 
 // ArgMiniblockInterceptorProcessor is the argument for the interceptor processor used for miniblocks

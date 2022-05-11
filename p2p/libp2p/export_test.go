@@ -3,8 +3,8 @@ package libp2p
 import (
 	"context"
 
-	"github.com/ElrondNetwork/elrond-go/p2p"
-	"github.com/ElrondNetwork/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/storage"
 	"github.com/libp2p/go-libp2p-core/network"
 	"github.com/libp2p/go-libp2p-core/peer"
 	pubsub "github.com/libp2p/go-libp2p-pubsub"

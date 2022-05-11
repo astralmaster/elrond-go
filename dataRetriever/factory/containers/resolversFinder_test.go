@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever/mock"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/dataRetriever/mock"
 	"github.com/stretchr/testify/assert"
 )
 

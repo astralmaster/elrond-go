@@ -8,9 +8,9 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	crypto "github.com/ElrondNetwork/elrond-go-crypto"
-	"github.com/ElrondNetwork/elrond-go/genesis"
-	"github.com/ElrondNetwork/elrond-go/genesis/data"
-	"github.com/ElrondNetwork/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/genesis"
+	"github.com/astralmaster/elrond-go/genesis/data"
+	"github.com/astralmaster/elrond-go/sharding"
 )
 
 // smartContractParser hold data for initial smart contracts

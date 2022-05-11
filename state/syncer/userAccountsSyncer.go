@@ -12,12 +12,12 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/epochStart"
-	"github.com/ElrondNetwork/elrond-go/process/factory"
-	"github.com/ElrondNetwork/elrond-go/state"
-	"github.com/ElrondNetwork/elrond-go/trie"
-	"github.com/ElrondNetwork/elrond-go/trie/statistics"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/process/factory"
+	"github.com/astralmaster/elrond-go/state"
+	"github.com/astralmaster/elrond-go/trie"
+	"github.com/astralmaster/elrond-go/trie/statistics"
 )
 
 var _ epochStart.AccountsDBSyncer = (*userAccountsSyncer)(nil)

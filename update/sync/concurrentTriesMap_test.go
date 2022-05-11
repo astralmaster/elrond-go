@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/random"
-	trieMock "github.com/ElrondNetwork/elrond-go/testscommon/trie"
+	trieMock "github.com/astralmaster/elrond-go/testscommon/trie"
 	"github.com/stretchr/testify/require"
 )
 

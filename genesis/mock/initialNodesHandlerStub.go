@@ -1,6 +1,6 @@
 package mock
 
-import "github.com/ElrondNetwork/elrond-go/sharding"
+import "github.com/astralmaster/elrond-go/sharding"
 
 // InitialNodesHandlerStub -
 type InitialNodesHandlerStub struct {

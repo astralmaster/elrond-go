@@ -5,7 +5,7 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 // TxCoordinator implements the TransactionCoordinator interface but does nothing as it is disabled

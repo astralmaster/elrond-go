@@ -11,10 +11,10 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data/transaction"
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/process"
-	txSimData "github.com/ElrondNetwork/elrond-go/process/txsimulator/data"
-	"github.com/ElrondNetwork/elrond-go/sharding"
-	"github.com/ElrondNetwork/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/process"
+	txSimData "github.com/astralmaster/elrond-go/process/txsimulator/data"
+	"github.com/astralmaster/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/storage"
 	vmcommon "github.com/ElrondNetwork/elrond-vm-common"
 )
 

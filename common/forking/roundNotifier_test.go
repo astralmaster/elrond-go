@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/atomic"
-	"github.com/ElrondNetwork/elrond-go/common/forking"
-	"github.com/ElrondNetwork/elrond-go/common/mock"
+	"github.com/astralmaster/elrond-go/common/forking"
+	"github.com/astralmaster/elrond-go/common/mock"
 	"github.com/stretchr/testify/require"
 )
 

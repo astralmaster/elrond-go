@@ -1,6 +1,6 @@
 package mock
 
-import "github.com/ElrondNetwork/elrond-go/process"
+import "github.com/astralmaster/elrond-go/process"
 
 // VmMachinesContainerFactoryMock -
 type VmMachinesContainerFactoryMock struct {

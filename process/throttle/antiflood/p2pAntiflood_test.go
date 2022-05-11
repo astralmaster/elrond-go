@@ -8,11 +8,11 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/p2p"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/process/mock"
-	"github.com/ElrondNetwork/elrond-go/process/throttle/antiflood"
-	"github.com/ElrondNetwork/elrond-go/process/throttle/antiflood/disabled"
+	"github.com/astralmaster/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process/mock"
+	"github.com/astralmaster/elrond-go/process/throttle/antiflood"
+	"github.com/astralmaster/elrond-go/process/throttle/antiflood/disabled"
 	"github.com/stretchr/testify/assert"
 )
 

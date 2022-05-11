@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/ElrondNetwork/elrond-go/storage"
-	"github.com/ElrondNetwork/elrond-go/storage/lrucache"
+	"github.com/astralmaster/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/storage/lrucache"
 )
 
 // FullHistoryPruningStorer represents a storer for full history nodes

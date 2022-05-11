@@ -13,9 +13,9 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data/smartContractResult"
 	"github.com/ElrondNetwork/elrond-go-core/data/transaction"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/update"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/update"
 )
 
 var _ update.TransactionsSyncHandler = (*transactionsSync)(nil)

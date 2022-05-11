@@ -8,11 +8,11 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	dataBlock "github.com/ElrondNetwork/elrond-go-core/data/block"
-	"github.com/ElrondNetwork/elrond-go/epochStart"
-	"github.com/ElrondNetwork/elrond-go/epochStart/mock"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
-	"github.com/ElrondNetwork/elrond-go/testscommon/hashingMocks"
+	"github.com/astralmaster/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/epochStart/mock"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/testscommon"
+	"github.com/astralmaster/elrond-go/testscommon/hashingMocks"
 	"github.com/stretchr/testify/assert"
 )
 

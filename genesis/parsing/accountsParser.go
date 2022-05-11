@@ -15,10 +15,10 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
 	crypto "github.com/ElrondNetwork/elrond-go-crypto"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/genesis"
-	"github.com/ElrondNetwork/elrond-go/genesis/data"
-	"github.com/ElrondNetwork/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/genesis"
+	"github.com/astralmaster/elrond-go/genesis/data"
+	"github.com/astralmaster/elrond-go/sharding"
 )
 
 // accountsParser hold data for initial accounts decoded data from json file

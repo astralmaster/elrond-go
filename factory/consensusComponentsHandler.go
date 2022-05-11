@@ -5,9 +5,9 @@ import (
 	"sync"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/consensus"
-	"github.com/ElrondNetwork/elrond-go/errors"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/consensus"
+	"github.com/astralmaster/elrond-go/errors"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 var _ ComponentHandler = (*managedConsensusComponents)(nil)

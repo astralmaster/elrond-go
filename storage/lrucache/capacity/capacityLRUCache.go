@@ -6,7 +6,7 @@ import (
 	"sync"
 
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/storage"
 )
 
 var log = logger.GetOrCreate("storage/lrucache/capacity")

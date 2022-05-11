@@ -17,12 +17,12 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
 	"github.com/ElrondNetwork/elrond-go-crypto"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/consensus"
-	"github.com/ElrondNetwork/elrond-go/ntp"
-	"github.com/ElrondNetwork/elrond-go/p2p"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/consensus"
+	"github.com/astralmaster/elrond-go/ntp"
+	"github.com/astralmaster/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/sharding"
 )
 
 var _ closing.Closer = (*Worker)(nil)

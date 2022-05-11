@@ -9,14 +9,14 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/heartbeat"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/data"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/mock"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/process"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/storage"
-	"github.com/ElrondNetwork/elrond-go/p2p"
-	statusHandlerMock "github.com/ElrondNetwork/elrond-go/testscommon/statusHandler"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/heartbeat"
+	"github.com/astralmaster/elrond-go/heartbeat/data"
+	"github.com/astralmaster/elrond-go/heartbeat/mock"
+	"github.com/astralmaster/elrond-go/heartbeat/process"
+	"github.com/astralmaster/elrond-go/heartbeat/storage"
+	"github.com/astralmaster/elrond-go/p2p"
+	statusHandlerMock "github.com/astralmaster/elrond-go/testscommon/statusHandler"
 	"github.com/stretchr/testify/assert"
 )
 

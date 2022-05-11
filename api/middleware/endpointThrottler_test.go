@@ -7,8 +7,8 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/api/middleware"
-	"github.com/ElrondNetwork/elrond-go/api/mock"
+	"github.com/astralmaster/elrond-go/api/middleware"
+	"github.com/astralmaster/elrond-go/api/mock"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"

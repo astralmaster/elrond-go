@@ -7,8 +7,8 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/process/block/pendingMb"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process/block/pendingMb"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -3,9 +3,9 @@ package factory_test
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/factory"
-	"github.com/ElrondNetwork/elrond-go/factory/mock"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/factory"
+	"github.com/astralmaster/elrond-go/factory/mock"
 	"github.com/stretchr/testify/require"
 )
 

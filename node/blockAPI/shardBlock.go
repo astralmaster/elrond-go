@@ -6,9 +6,9 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/data/api"
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/node/filters"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/node/filters"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 type shardAPIBlockProcessor struct {

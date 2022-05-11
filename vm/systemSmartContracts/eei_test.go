@@ -7,12 +7,12 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/process/smartContract/hooks"
-	"github.com/ElrondNetwork/elrond-go/state"
-	stateMock "github.com/ElrondNetwork/elrond-go/testscommon/state"
-	"github.com/ElrondNetwork/elrond-go/vm"
-	"github.com/ElrondNetwork/elrond-go/vm/mock"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/process/smartContract/hooks"
+	"github.com/astralmaster/elrond-go/state"
+	stateMock "github.com/astralmaster/elrond-go/testscommon/state"
+	"github.com/astralmaster/elrond-go/vm"
+	"github.com/astralmaster/elrond-go/vm/mock"
 	vmcommon "github.com/ElrondNetwork/elrond-vm-common"
 	"github.com/stretchr/testify/assert"
 )

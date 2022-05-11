@@ -3,8 +3,8 @@ package trie_test
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/trie"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/trie"
 	"github.com/stretchr/testify/assert"
 )
 

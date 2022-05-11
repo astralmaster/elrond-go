@@ -4,7 +4,7 @@ import (
 	"sync"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/atomic"
-	"github.com/ElrondNetwork/elrond-go/storage/txcache/maps"
+	"github.com/astralmaster/elrond-go/storage/txcache/maps"
 )
 
 const numberOfScoreChunks = uint32(100)

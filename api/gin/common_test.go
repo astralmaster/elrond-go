@@ -4,9 +4,9 @@ import (
 	"errors"
 	"testing"
 
-	apiErrors "github.com/ElrondNetwork/elrond-go/api/errors"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/facade/initial"
+	apiErrors "github.com/astralmaster/elrond-go/api/errors"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/facade/initial"
 	"github.com/stretchr/testify/require"
 )
 

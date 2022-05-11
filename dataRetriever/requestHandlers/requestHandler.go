@@ -11,9 +11,9 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/core/partitioning"
 	"github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/epochStart"
-	"github.com/ElrondNetwork/elrond-go/process/factory"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/process/factory"
 )
 
 var _ epochStart.RequestHandler = (*resolverRequestHandler)(nil)

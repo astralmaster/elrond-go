@@ -6,10 +6,10 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/p2p"
-	"github.com/ElrondNetwork/elrond-go/process/throttle/antiflood/disabled"
-	"github.com/ElrondNetwork/elrond-go/testscommon/statusHandler"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/process/throttle/antiflood/disabled"
+	"github.com/astralmaster/elrond-go/testscommon/statusHandler"
 	"github.com/stretchr/testify/assert"
 )
 

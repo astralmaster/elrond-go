@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/cmd/termui/presenter"
-	"github.com/ElrondNetwork/elrond-go/common"
+	"github.com/astralmaster/elrond-go/cmd/termui/presenter"
+	"github.com/astralmaster/elrond-go/common"
 	"github.com/stretchr/testify/assert"
 )
 

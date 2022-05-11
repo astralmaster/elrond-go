@@ -7,9 +7,9 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-crypto"
-	"github.com/ElrondNetwork/elrond-go/factory/peerSignatureHandler"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
-	"github.com/ElrondNetwork/elrond-go/testscommon/cryptoMocks"
+	"github.com/astralmaster/elrond-go/factory/peerSignatureHandler"
+	"github.com/astralmaster/elrond-go/testscommon"
+	"github.com/astralmaster/elrond-go/testscommon/cryptoMocks"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/p2p"
-	"github.com/ElrondNetwork/elrond-go/p2p/libp2p/networksharding"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p/libp2p/networksharding"
 	"github.com/libp2p/go-libp2p-core/peer"
 )
 

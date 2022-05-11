@@ -4,13 +4,13 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/config"
-	errErd "github.com/ElrondNetwork/elrond-go/errors"
-	"github.com/ElrondNetwork/elrond-go/factory"
-	"github.com/ElrondNetwork/elrond-go/factory/mock"
-	"github.com/ElrondNetwork/elrond-go/p2p"
-	"github.com/ElrondNetwork/elrond-go/p2p/libp2p"
-	statusHandlerMock "github.com/ElrondNetwork/elrond-go/testscommon/statusHandler"
+	"github.com/astralmaster/elrond-go/config"
+	errErd "github.com/astralmaster/elrond-go/errors"
+	"github.com/astralmaster/elrond-go/factory"
+	"github.com/astralmaster/elrond-go/factory/mock"
+	"github.com/astralmaster/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p/libp2p"
+	statusHandlerMock "github.com/astralmaster/elrond-go/testscommon/statusHandler"
 	"github.com/stretchr/testify/require"
 )
 

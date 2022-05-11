@@ -3,8 +3,8 @@ package storage
 import (
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/epochStart"
 )
 
 // Persister provides storage of data services in a database like construct

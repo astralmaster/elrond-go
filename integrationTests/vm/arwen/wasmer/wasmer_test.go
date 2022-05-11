@@ -11,10 +11,10 @@ import (
 	"testing"
 
 	vmData "github.com/ElrondNetwork/elrond-go-core/data/vm"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm/arwen"
-	"github.com/ElrondNetwork/elrond-go/process/factory"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/integrationTests/vm"
+	"github.com/astralmaster/elrond-go/integrationTests/vm/arwen"
+	"github.com/astralmaster/elrond-go/process/factory"
 	vmcommon "github.com/ElrondNetwork/elrond-vm-common"
 	"github.com/stretchr/testify/require"
 )

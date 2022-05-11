@@ -4,14 +4,14 @@ import (
 	"sync"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/consensus"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/dblookupext"
-	"github.com/ElrondNetwork/elrond-go/epochStart"
-	"github.com/ElrondNetwork/elrond-go/errors"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/sharding"
-	"github.com/ElrondNetwork/elrond-go/update"
+	"github.com/astralmaster/elrond-go/consensus"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/dblookupext"
+	"github.com/astralmaster/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/errors"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/update"
 )
 
 var _ ComponentHandler = (*managedProcessComponents)(nil)

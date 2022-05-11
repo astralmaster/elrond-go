@@ -3,8 +3,8 @@ package roundActivation_test
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/process/roundActivation"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/process/roundActivation"
 	"github.com/stretchr/testify/require"
 )
 

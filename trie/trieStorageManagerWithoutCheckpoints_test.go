@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/common"
-	trieMock "github.com/ElrondNetwork/elrond-go/testscommon/trie"
-	"github.com/ElrondNetwork/elrond-go/trie"
+	"github.com/astralmaster/elrond-go/common"
+	trieMock "github.com/astralmaster/elrond-go/testscommon/trie"
+	"github.com/astralmaster/elrond-go/trie"
 	"github.com/stretchr/testify/assert"
 )
 

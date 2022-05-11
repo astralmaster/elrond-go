@@ -9,11 +9,11 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data/indexer"
 	transactionData "github.com/ElrondNetwork/elrond-go-core/data/transaction"
 	crypto "github.com/ElrondNetwork/elrond-go-crypto"
-	"github.com/ElrondNetwork/elrond-go/genesis"
-	"github.com/ElrondNetwork/elrond-go/genesis/data"
-	"github.com/ElrondNetwork/elrond-go/genesis/mock"
-	"github.com/ElrondNetwork/elrond-go/sharding"
-	"github.com/ElrondNetwork/elrond-go/testscommon/hashingMocks"
+	"github.com/astralmaster/elrond-go/genesis"
+	"github.com/astralmaster/elrond-go/genesis/data"
+	"github.com/astralmaster/elrond-go/genesis/mock"
+	"github.com/astralmaster/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/testscommon/hashingMocks"
 )
 
 func (ap *accountsParser) SetInitialAccounts(initialAccounts []*data.InitialAccount) {

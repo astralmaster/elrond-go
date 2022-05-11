@@ -10,9 +10,9 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/data/esdt"
 	"github.com/ElrondNetwork/elrond-go-core/data/transaction"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm"
-	"github.com/ElrondNetwork/elrond-go/state"
-	"github.com/ElrondNetwork/elrond-go/testscommon/txDataBuilder"
+	"github.com/astralmaster/elrond-go/integrationTests/vm"
+	"github.com/astralmaster/elrond-go/state"
+	"github.com/astralmaster/elrond-go/testscommon/txDataBuilder"
 	"github.com/stretchr/testify/require"
 )
 

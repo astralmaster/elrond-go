@@ -6,11 +6,11 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/process/mock"
-	"github.com/ElrondNetwork/elrond-go/storage"
-	storageMock "github.com/ElrondNetwork/elrond-go/storage/mock"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
-	trieFactory "github.com/ElrondNetwork/elrond-go/trie/factory"
+	"github.com/astralmaster/elrond-go/process/mock"
+	"github.com/astralmaster/elrond-go/storage"
+	storageMock "github.com/astralmaster/elrond-go/storage/mock"
+	"github.com/astralmaster/elrond-go/testscommon"
+	trieFactory "github.com/astralmaster/elrond-go/trie/factory"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

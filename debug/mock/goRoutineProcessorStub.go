@@ -3,7 +3,7 @@ package mock
 import (
 	"bytes"
 
-	"github.com/ElrondNetwork/elrond-go/debug"
+	"github.com/astralmaster/elrond-go/debug"
 )
 
 // GoRoutineHandlerMap is an alias on the map of GoRoutineHandler

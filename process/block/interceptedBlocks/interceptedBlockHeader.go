@@ -7,8 +7,8 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/sharding"
 )
 
 var _ process.HdrValidatorHandler = (*InterceptedHeader)(nil)

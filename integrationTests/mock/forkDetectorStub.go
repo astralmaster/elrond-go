@@ -2,7 +2,7 @@ package mock
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 // ForkDetectorStub is a mock implementation for the ForkDetector interface

@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/debug"
-	"github.com/ElrondNetwork/elrond-go/debug/mock"
+	"github.com/astralmaster/elrond-go/debug"
+	"github.com/astralmaster/elrond-go/debug/mock"
 	"github.com/stretchr/testify/assert"
 )
 

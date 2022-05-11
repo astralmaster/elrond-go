@@ -11,8 +11,8 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/debug"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/debug"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

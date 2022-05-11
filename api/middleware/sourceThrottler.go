@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/ElrondNetwork/elrond-go/api/shared"
+	"github.com/astralmaster/elrond-go/api/shared"
 	"github.com/gin-gonic/gin"
 )
 

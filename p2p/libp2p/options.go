@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p"
 )
 
 var readTimeout = time.Second * 10

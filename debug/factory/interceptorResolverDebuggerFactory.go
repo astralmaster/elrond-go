@@ -1,8 +1,8 @@
 package factory
 
 import (
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/debug/resolver"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/debug/resolver"
 )
 
 // NewInterceptorResolverDebuggerFactory will instantiate an InterceptorResolverDebugHandler based on the provided config

@@ -1,6 +1,6 @@
 package rating
 
-import "github.com/ElrondNetwork/elrond-go/process"
+import "github.com/astralmaster/elrond-go/process"
 
 var _ process.RatingChanceHandler = (*selectionChance)(nil)
 

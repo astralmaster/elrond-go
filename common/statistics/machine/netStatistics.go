@@ -5,9 +5,9 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/data"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/epochStart"
-	"github.com/ElrondNetwork/elrond-go/epochStart/notifier"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/epochStart/notifier"
 	"github.com/shirou/gopsutil/net"
 )
 

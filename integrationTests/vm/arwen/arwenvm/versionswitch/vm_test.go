@@ -8,10 +8,10 @@ package versionswitch
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm/arwen/arwenvm"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/integrationTests/vm"
+	"github.com/astralmaster/elrond-go/integrationTests/vm/arwen/arwenvm"
 	"github.com/stretchr/testify/require"
 )
 

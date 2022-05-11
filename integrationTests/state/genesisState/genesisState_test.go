@@ -10,14 +10,14 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/genesis"
-	"github.com/ElrondNetwork/elrond-go/genesis/parsing"
-	"github.com/ElrondNetwork/elrond-go/integrationTests"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/mock"
-	"github.com/ElrondNetwork/elrond-go/state"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
-	"github.com/ElrondNetwork/elrond-go/testscommon/hashingMocks"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/genesis"
+	"github.com/astralmaster/elrond-go/genesis/parsing"
+	"github.com/astralmaster/elrond-go/integrationTests"
+	"github.com/astralmaster/elrond-go/integrationTests/mock"
+	"github.com/astralmaster/elrond-go/state"
+	"github.com/astralmaster/elrond-go/testscommon"
+	"github.com/astralmaster/elrond-go/testscommon/hashingMocks"
 	"github.com/stretchr/testify/assert"
 )
 

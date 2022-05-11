@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-crypto"
-	"github.com/ElrondNetwork/elrond-go/vm"
-	"github.com/ElrondNetwork/elrond-go/vm/mock"
+	"github.com/astralmaster/elrond-go/vm"
+	"github.com/astralmaster/elrond-go/vm/mock"
 	"github.com/stretchr/testify/assert"
 )
 

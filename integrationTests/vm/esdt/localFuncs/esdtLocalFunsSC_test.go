@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/integrationTests"
-	esdtCommon "github.com/ElrondNetwork/elrond-go/integrationTests/vm/esdt"
+	"github.com/astralmaster/elrond-go/integrationTests"
+	esdtCommon "github.com/astralmaster/elrond-go/integrationTests/vm/esdt"
 )
 
 func TestESDTLocalMintAndBurnFromSC(t *testing.T) {

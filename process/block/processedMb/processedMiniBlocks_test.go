@@ -3,8 +3,8 @@ package processedMb_test
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/process/block/bootstrapStorage"
-	"github.com/ElrondNetwork/elrond-go/process/block/processedMb"
+	"github.com/astralmaster/elrond-go/process/block/bootstrapStorage"
+	"github.com/astralmaster/elrond-go/process/block/processedMb"
 	"github.com/stretchr/testify/assert"
 )
 

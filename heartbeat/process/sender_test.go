@@ -9,11 +9,11 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-crypto"
-	"github.com/ElrondNetwork/elrond-go/heartbeat"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/data"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/mock"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/process"
-	statusHandlerMock "github.com/ElrondNetwork/elrond-go/testscommon/statusHandler"
+	"github.com/astralmaster/elrond-go/heartbeat"
+	"github.com/astralmaster/elrond-go/heartbeat/data"
+	"github.com/astralmaster/elrond-go/heartbeat/mock"
+	"github.com/astralmaster/elrond-go/heartbeat/process"
+	statusHandlerMock "github.com/astralmaster/elrond-go/testscommon/statusHandler"
 	"github.com/stretchr/testify/assert"
 )
 

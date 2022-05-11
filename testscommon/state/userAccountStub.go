@@ -4,8 +4,8 @@ package state
 import (
 	"math/big"
 
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/state"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/state"
 )
 
 var _ state.UserAccountHandler = (*UserAccountStub)(nil)

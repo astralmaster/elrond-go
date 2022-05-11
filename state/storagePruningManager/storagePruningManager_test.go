@@ -3,16 +3,16 @@ package storagePruningManager
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/state"
-	"github.com/ElrondNetwork/elrond-go/state/factory"
-	"github.com/ElrondNetwork/elrond-go/state/storagePruningManager/evictionWaitingList"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
-	"github.com/ElrondNetwork/elrond-go/testscommon/epochNotifier"
-	"github.com/ElrondNetwork/elrond-go/testscommon/hashingMocks"
-	"github.com/ElrondNetwork/elrond-go/trie"
-	"github.com/ElrondNetwork/elrond-go/trie/hashesHolder"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/state"
+	"github.com/astralmaster/elrond-go/state/factory"
+	"github.com/astralmaster/elrond-go/state/storagePruningManager/evictionWaitingList"
+	"github.com/astralmaster/elrond-go/testscommon"
+	"github.com/astralmaster/elrond-go/testscommon/epochNotifier"
+	"github.com/astralmaster/elrond-go/testscommon/hashingMocks"
+	"github.com/astralmaster/elrond-go/trie"
+	"github.com/astralmaster/elrond-go/trie/hashesHolder"
 	"github.com/stretchr/testify/assert"
 )
 

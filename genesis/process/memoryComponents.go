@@ -3,11 +3,11 @@ package process
 import (
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/common"
-	commonDisabled "github.com/ElrondNetwork/elrond-go/common/disabled"
-	"github.com/ElrondNetwork/elrond-go/state"
-	"github.com/ElrondNetwork/elrond-go/state/storagePruningManager/disabled"
-	"github.com/ElrondNetwork/elrond-go/trie"
+	"github.com/astralmaster/elrond-go/common"
+	commonDisabled "github.com/astralmaster/elrond-go/common/disabled"
+	"github.com/astralmaster/elrond-go/state"
+	"github.com/astralmaster/elrond-go/state/storagePruningManager/disabled"
+	"github.com/astralmaster/elrond-go/trie"
 )
 
 const maxTrieLevelInMemory = uint(5)

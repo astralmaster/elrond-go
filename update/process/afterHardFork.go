@@ -7,8 +7,8 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/sharding"
-	"github.com/ElrondNetwork/elrond-go/update"
+	"github.com/astralmaster/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/update"
 )
 
 // TODO: save blocks and transactions to storage

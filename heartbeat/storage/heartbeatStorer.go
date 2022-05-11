@@ -7,9 +7,9 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data/batch"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
 	"github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/heartbeat"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/data"
-	"github.com/ElrondNetwork/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/heartbeat"
+	"github.com/astralmaster/elrond-go/heartbeat/data"
+	"github.com/astralmaster/elrond-go/storage"
 )
 
 var log = logger.GetOrCreate("heartbeat/storage")

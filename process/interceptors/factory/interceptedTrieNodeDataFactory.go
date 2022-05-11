@@ -4,8 +4,8 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/trie"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/trie"
 )
 
 var _ process.InterceptedDataFactory = (*interceptedTrieNodeDataFactory)(nil)

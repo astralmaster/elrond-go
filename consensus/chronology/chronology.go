@@ -11,9 +11,9 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core/closing"
 	"github.com/ElrondNetwork/elrond-go-core/display"
 	"github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/consensus"
-	"github.com/ElrondNetwork/elrond-go/ntp"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/consensus"
+	"github.com/astralmaster/elrond-go/ntp"
 )
 
 var _ consensus.ChronologyHandler = (*chronology)(nil)

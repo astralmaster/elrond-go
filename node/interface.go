@@ -5,9 +5,9 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/process"
-	"github.com/ElrondNetwork/elrond-go/p2p"
-	"github.com/ElrondNetwork/elrond-go/update"
+	"github.com/astralmaster/elrond-go/heartbeat/process"
+	"github.com/astralmaster/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/update"
 )
 
 // P2PMessenger defines a subset of the p2p.Messenger interface

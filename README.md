@@ -1,6 +1,6 @@
 <div style="text-align:center">
   <img
-  src="https://raw.githubusercontent.com/ElrondNetwork/elrond-go/master/elrond_logo_01.svg"
+  src="https://raw.githubusercontent.com/astralmaster/elrond-go/master/elrond_logo_01.svg"
   alt="Elrond Network">
 </div>
 <br>
@@ -10,7 +10,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/ElrondNetwork/elrond-go)](https://goreportcard.com/report/github.com/ElrondNetwork/elrond-go)
 [![LoC](https://tokei.rs/b1/github/ElrondNetwork/elrond-go?category=code)](https://github.com/ElrondNetwork/elrond-go)
 [![API Reference](https://godoc.org/github.com/ElrondNetwork/elrond-go?status.svg)](https://godoc.org/github.com/ElrondNetwork/elrond-go)
-[![codecov](https://codecov.io/gh/ElrondNetwork/elrond-go/branch/master/graph/badge.svg?token=MYS5EDASOJ)](https://codecov.io/gh/ElrondNetwork/elrond-go)
+[![codecov](https://codecov.io/gh/astralmaster/elrond-go/branch/master/graph/badge.svg?token=MYS5EDASOJ)](https://codecov.io/gh/ElrondNetwork/elrond-go)
 
 # Elrond go
 
@@ -42,7 +42,7 @@ The node depends on the Arwen Virtual Machine, which is automatically managed by
 In order to be registered in the Elrond Network, a node must possess 2 types of (secret key, public key) pairs. One is used to identify the node’s credential used to generate transactions (having the sender field its account address) and the other is used in the process of the block signing. Please note that this is a preliminary mechanism, in the next releases the first (private, public key) pair will be dropped when the staking mechanism will be fully implemented. To build and run the keygenerator, the following commands will need to be run:
 
 ```
-$ cd $GOPATH/src/github.com/ElrondNetwork/elrond-go/cmd/keygenerator
+$ cd $GOPATH/src/github.com/astralmaster/elrond-go/cmd/keygenerator
 $ go build
 $ ./keygenerator
 ```

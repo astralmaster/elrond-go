@@ -3,7 +3,7 @@ package mock
 import (
 	"context"
 
-	"github.com/ElrondNetwork/elrond-go/consensus"
+	"github.com/astralmaster/elrond-go/consensus"
 )
 
 // SubroundHandlerMock -

@@ -7,11 +7,11 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-crypto"
-	"github.com/ElrondNetwork/elrond-go/consensus"
-	"github.com/ElrondNetwork/elrond-go/consensus/mock"
-	"github.com/ElrondNetwork/elrond-go/consensus/spos"
-	"github.com/ElrondNetwork/elrond-go/consensus/spos/bls"
-	"github.com/ElrondNetwork/elrond-go/testscommon/hashingMocks"
+	"github.com/astralmaster/elrond-go/consensus"
+	"github.com/astralmaster/elrond-go/consensus/mock"
+	"github.com/astralmaster/elrond-go/consensus/spos"
+	"github.com/astralmaster/elrond-go/consensus/spos/bls"
+	"github.com/astralmaster/elrond-go/testscommon/hashingMocks"
 	"github.com/stretchr/testify/assert"
 )
 

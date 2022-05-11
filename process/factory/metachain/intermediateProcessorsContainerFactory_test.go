@@ -3,11 +3,11 @@ package metachain_test
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/process/factory/metachain"
-	"github.com/ElrondNetwork/elrond-go/process/mock"
-	dataRetrieverMock "github.com/ElrondNetwork/elrond-go/testscommon/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/testscommon/hashingMocks"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process/factory/metachain"
+	"github.com/astralmaster/elrond-go/process/mock"
+	dataRetrieverMock "github.com/astralmaster/elrond-go/testscommon/dataRetriever"
+	"github.com/astralmaster/elrond-go/testscommon/hashingMocks"
 	"github.com/stretchr/testify/assert"
 )
 

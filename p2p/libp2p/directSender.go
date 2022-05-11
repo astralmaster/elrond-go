@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p"
 	ggio "github.com/gogo/protobuf/io"
 	"github.com/libp2p/go-libp2p-core/host"
 	"github.com/libp2p/go-libp2p-core/network"

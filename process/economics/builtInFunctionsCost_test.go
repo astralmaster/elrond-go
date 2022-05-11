@@ -4,10 +4,10 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/process/economics"
-	"github.com/ElrondNetwork/elrond-go/process/mock"
-	"github.com/ElrondNetwork/elrond-go/vm/systemSmartContracts/defaults"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process/economics"
+	"github.com/astralmaster/elrond-go/process/mock"
+	"github.com/astralmaster/elrond-go/vm/systemSmartContracts/defaults"
 	"github.com/stretchr/testify/require"
 )
 

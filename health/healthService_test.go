@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/config"
+	"github.com/astralmaster/elrond-go/config"
 	"github.com/stretchr/testify/require"
 )
 

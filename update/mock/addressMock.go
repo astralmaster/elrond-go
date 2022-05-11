@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/testscommon/hashingMocks"
+	"github.com/astralmaster/elrond-go/testscommon/hashingMocks"
 )
 
 // AddressMock implements a mock address generator used in testing

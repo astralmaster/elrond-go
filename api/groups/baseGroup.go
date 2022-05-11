@@ -4,8 +4,8 @@ import (
 	"strings"
 
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/api/shared"
-	"github.com/ElrondNetwork/elrond-go/config"
+	"github.com/astralmaster/elrond-go/api/shared"
+	"github.com/astralmaster/elrond-go/config"
 	"github.com/gin-gonic/gin"
 )
 

@@ -5,8 +5,8 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/redundancy"
-	"github.com/ElrondNetwork/elrond-go/redundancy/mock"
+	"github.com/astralmaster/elrond-go/redundancy"
+	"github.com/astralmaster/elrond-go/redundancy/mock"
 	"github.com/stretchr/testify/assert"
 )
 

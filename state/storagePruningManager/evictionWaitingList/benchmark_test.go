@@ -6,9 +6,9 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/hashing/blake2b"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/state"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/state"
+	"github.com/astralmaster/elrond-go/testscommon"
 	"github.com/stretchr/testify/require"
 )
 

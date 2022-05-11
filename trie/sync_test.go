@@ -8,10 +8,10 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/data"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
-	"github.com/ElrondNetwork/elrond-go/testscommon/hashingMocks"
-	trieMock "github.com/ElrondNetwork/elrond-go/testscommon/trie"
-	"github.com/ElrondNetwork/elrond-go/trie/statistics"
+	"github.com/astralmaster/elrond-go/testscommon"
+	"github.com/astralmaster/elrond-go/testscommon/hashingMocks"
+	trieMock "github.com/astralmaster/elrond-go/testscommon/trie"
+	"github.com/astralmaster/elrond-go/trie/statistics"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

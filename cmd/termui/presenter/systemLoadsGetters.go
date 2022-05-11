@@ -1,7 +1,7 @@
 package presenter
 
 import (
-	"github.com/ElrondNetwork/elrond-go/common"
+	"github.com/astralmaster/elrond-go/common"
 )
 
 // GetCpuLoadPercent wil return cpu load

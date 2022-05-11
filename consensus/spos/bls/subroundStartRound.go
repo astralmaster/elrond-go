@@ -11,10 +11,10 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	"github.com/ElrondNetwork/elrond-go-core/data/indexer"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/consensus/spos"
-	"github.com/ElrondNetwork/elrond-go/outport"
-	"github.com/ElrondNetwork/elrond-go/outport/disabled"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/consensus/spos"
+	"github.com/astralmaster/elrond-go/outport"
+	"github.com/astralmaster/elrond-go/outport/disabled"
 )
 
 // subroundStartRound defines the data needed by the subround StartRound

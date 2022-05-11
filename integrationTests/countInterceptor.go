@@ -4,7 +4,7 @@ import (
 	"sync"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p"
 )
 
 // CountInterceptor represents an interceptors that counts received messages on topics

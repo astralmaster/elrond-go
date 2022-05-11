@@ -3,14 +3,14 @@ package shard_test
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/process/factory/shard"
-	"github.com/ElrondNetwork/elrond-go/process/mock"
-	"github.com/ElrondNetwork/elrond-go/storage"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
-	dataRetrieverMock "github.com/ElrondNetwork/elrond-go/testscommon/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/testscommon/hashingMocks"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process/factory/shard"
+	"github.com/astralmaster/elrond-go/process/mock"
+	"github.com/astralmaster/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/testscommon"
+	dataRetrieverMock "github.com/astralmaster/elrond-go/testscommon/dataRetriever"
+	"github.com/astralmaster/elrond-go/testscommon/hashingMocks"
 	"github.com/stretchr/testify/assert"
 )
 

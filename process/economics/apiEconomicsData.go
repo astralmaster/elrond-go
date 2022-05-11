@@ -2,7 +2,7 @@ package economics
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 type apiEconomicsData struct {

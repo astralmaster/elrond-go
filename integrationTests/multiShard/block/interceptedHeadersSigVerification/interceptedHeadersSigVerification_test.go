@@ -12,7 +12,7 @@ import (
 	"github.com/ElrondNetwork/elrond-go-crypto/signing"
 	"github.com/ElrondNetwork/elrond-go-crypto/signing/mcl"
 	mclsinglesig "github.com/ElrondNetwork/elrond-go-crypto/signing/mcl/singlesig"
-	"github.com/ElrondNetwork/elrond-go/integrationTests"
+	"github.com/astralmaster/elrond-go/integrationTests"
 	"github.com/stretchr/testify/assert"
 )
 

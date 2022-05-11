@@ -3,8 +3,8 @@ package factory_test
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/factory"
-	"github.com/ElrondNetwork/elrond-go/testscommon/cryptoMocks"
+	"github.com/astralmaster/elrond-go/factory"
+	"github.com/astralmaster/elrond-go/testscommon/cryptoMocks"
 	"github.com/stretchr/testify/require"
 )
 

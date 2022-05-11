@@ -6,7 +6,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p"
 	"github.com/stretchr/testify/assert"
 )
 

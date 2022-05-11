@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 var _ process.RatingsInfoHandler = (*RatingsData)(nil)

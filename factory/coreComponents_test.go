@@ -5,11 +5,11 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/data/endProcess"
-	"github.com/ElrondNetwork/elrond-go/config"
-	errorsErd "github.com/ElrondNetwork/elrond-go/errors"
-	"github.com/ElrondNetwork/elrond-go/factory"
-	"github.com/ElrondNetwork/elrond-go/state"
-	"github.com/ElrondNetwork/elrond-go/testscommon/statusHandler"
+	"github.com/astralmaster/elrond-go/config"
+	errorsErd "github.com/astralmaster/elrond-go/errors"
+	"github.com/astralmaster/elrond-go/factory"
+	"github.com/astralmaster/elrond-go/state"
+	"github.com/astralmaster/elrond-go/testscommon/statusHandler"
 	"github.com/stretchr/testify/require"
 )
 

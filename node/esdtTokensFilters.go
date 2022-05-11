@@ -4,7 +4,7 @@ import (
 	"bytes"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/vm/systemSmartContracts"
+	"github.com/astralmaster/elrond-go/vm/systemSmartContracts"
 )
 
 type getRegisteredNftsFilter struct {

@@ -2,8 +2,8 @@ package statusHandler
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/node/external"
-	"github.com/ElrondNetwork/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/node/external"
+	"github.com/astralmaster/elrond-go/storage"
 )
 
 // StatusHandlersUtilsMock -

@@ -1,8 +1,8 @@
 package memorydb
 
 import (
-	"github.com/ElrondNetwork/elrond-go/storage"
-	"github.com/ElrondNetwork/elrond-go/storage/lrucache"
+	"github.com/astralmaster/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/storage/lrucache"
 )
 
 var _ storage.Persister = (*lruDB)(nil)

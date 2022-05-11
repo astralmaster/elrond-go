@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/random"
-	"github.com/ElrondNetwork/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p"
 )
 
 func getPort(port string, handler func(int) error) (int, error) {

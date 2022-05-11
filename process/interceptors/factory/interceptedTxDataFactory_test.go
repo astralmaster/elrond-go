@@ -5,9 +5,9 @@ import (
 	"testing"
 
 	dataTransaction "github.com/ElrondNetwork/elrond-go-core/data/transaction"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/process/mock"
-	"github.com/ElrondNetwork/elrond-go/process/transaction"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process/mock"
+	"github.com/astralmaster/elrond-go/process/transaction"
 	"github.com/stretchr/testify/assert"
 )
 

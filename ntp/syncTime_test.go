@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/ntp"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/ntp"
 	beevikNtp "github.com/beevik/ntp"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

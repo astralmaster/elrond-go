@@ -2,7 +2,7 @@ package factory
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/vm"
+	"github.com/astralmaster/elrond-go/vm"
 )
 
 // readOnlySCContainer is a wrapper over a scContainer which works read-only. write operations are disabled

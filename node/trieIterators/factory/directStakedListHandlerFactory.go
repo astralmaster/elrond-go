@@ -2,9 +2,9 @@ package factory
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/node/external"
-	"github.com/ElrondNetwork/elrond-go/node/trieIterators"
-	"github.com/ElrondNetwork/elrond-go/node/trieIterators/disabled"
+	"github.com/astralmaster/elrond-go/node/external"
+	"github.com/astralmaster/elrond-go/node/trieIterators"
+	"github.com/astralmaster/elrond-go/node/trieIterators/disabled"
 )
 
 // CreateDirectStakedListHandler will create a new instance of DirectStakedListHandler

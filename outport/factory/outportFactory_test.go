@@ -7,11 +7,11 @@ import (
 
 	covalentFactory "github.com/ElrondNetwork/covalent-indexer-go/factory"
 	indexerFactory "github.com/ElrondNetwork/elastic-indexer-go/factory"
-	"github.com/ElrondNetwork/elrond-go/outport"
-	"github.com/ElrondNetwork/elrond-go/outport/factory"
-	"github.com/ElrondNetwork/elrond-go/process/mock"
-	"github.com/ElrondNetwork/elrond-go/testscommon/hashingMocks"
-	stateMock "github.com/ElrondNetwork/elrond-go/testscommon/state"
+	"github.com/astralmaster/elrond-go/outport"
+	"github.com/astralmaster/elrond-go/outport/factory"
+	"github.com/astralmaster/elrond-go/process/mock"
+	"github.com/astralmaster/elrond-go/testscommon/hashingMocks"
+	stateMock "github.com/astralmaster/elrond-go/testscommon/state"
 	notifierFactory "github.com/ElrondNetwork/notifier-go/factory"
 	"github.com/stretchr/testify/require"
 )

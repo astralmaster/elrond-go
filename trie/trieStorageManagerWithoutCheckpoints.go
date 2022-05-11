@@ -2,8 +2,8 @@ package trie
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/trie/hashesHolder/disabled"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/trie/hashesHolder/disabled"
 )
 
 // trieStorageManagerWithoutCheckpoints manages the storage operations of the trie, but does not create checkpoints

@@ -6,7 +6,7 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/hashing/keccak"
 	"github.com/ElrondNetwork/elrond-go-core/hashing/sha256"
-	"github.com/ElrondNetwork/elrond-go/process/smartContract/hooks"
+	"github.com/astralmaster/elrond-go/process/smartContract/hooks"
 	"github.com/stretchr/testify/assert"
 )
 

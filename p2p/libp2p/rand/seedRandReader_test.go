@@ -3,8 +3,8 @@ package rand_test
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/p2p"
-	"github.com/ElrondNetwork/elrond-go/p2p/libp2p/rand"
+	"github.com/astralmaster/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p/libp2p/rand"
 	"github.com/stretchr/testify/assert"
 )
 

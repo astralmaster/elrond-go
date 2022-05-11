@@ -8,8 +8,8 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data/receipt"
 	"github.com/ElrondNetwork/elrond-go-core/data/smartContractResult"
 	"github.com/ElrondNetwork/elrond-go-core/data/transaction"
-	"github.com/ElrondNetwork/elrond-go/common/mock"
-	"github.com/ElrondNetwork/elrond-go/testscommon/genericMocks"
+	"github.com/astralmaster/elrond-go/common/mock"
+	"github.com/astralmaster/elrond-go/testscommon/genericMocks"
 	"github.com/stretchr/testify/require"
 )
 

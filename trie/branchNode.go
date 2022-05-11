@@ -11,8 +11,8 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/errors"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/errors"
 )
 
 var _ = node(&branchNode{})

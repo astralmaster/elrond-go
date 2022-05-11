@@ -15,7 +15,7 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
 	"github.com/ElrondNetwork/elrond-go-logger"
 	"github.com/ElrondNetwork/elrond-go-logger/proto"
-	"github.com/ElrondNetwork/elrond-go/common"
+	"github.com/astralmaster/elrond-go/common"
 	"github.com/gorilla/websocket"
 	"github.com/urfave/cli"
 )

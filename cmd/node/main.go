@@ -9,11 +9,11 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/cmd/node/factory"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/common/logging"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/node"
+	"github.com/astralmaster/elrond-go/cmd/node/factory"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/common/logging"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/node"
 	"github.com/urfave/cli"
 	// test point 1 for custom profiler
 )

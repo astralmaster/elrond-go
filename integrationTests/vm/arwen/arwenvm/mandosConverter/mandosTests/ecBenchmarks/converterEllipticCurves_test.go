@@ -3,7 +3,7 @@ package Benchmark_TestEllipticCurveScalarMultP224
 import (
 	"testing"
 
-	mc "github.com/ElrondNetwork/elrond-go/integrationTests/vm/arwen/arwenvm/mandosConverter"
+	mc "github.com/astralmaster/elrond-go/integrationTests/vm/arwen/arwenvm/mandosConverter"
 )
 
 func TestMandosConverter_EllipticCurves(t *testing.T) {

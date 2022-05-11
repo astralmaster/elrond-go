@@ -3,7 +3,7 @@ package disabled
 import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	"github.com/ElrondNetwork/elrond-go-core/data/indexer"
-	"github.com/ElrondNetwork/elrond-go/outport"
+	"github.com/astralmaster/elrond-go/outport"
 )
 
 type disabledOutport struct{}

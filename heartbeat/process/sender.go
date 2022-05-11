@@ -8,10 +8,10 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
 	"github.com/ElrondNetwork/elrond-go-crypto"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/heartbeat"
-	heartbeatData "github.com/ElrondNetwork/elrond-go/heartbeat/data"
-	"github.com/ElrondNetwork/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/heartbeat"
+	heartbeatData "github.com/astralmaster/elrond-go/heartbeat/data"
+	"github.com/astralmaster/elrond-go/sharding"
 )
 
 const delayAfterHardforkMessageBroadcast = time.Second * 5

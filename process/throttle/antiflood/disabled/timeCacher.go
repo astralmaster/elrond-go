@@ -3,7 +3,7 @@ package disabled
 import (
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 var _ process.TimeCacher = (*TimeCache)(nil)

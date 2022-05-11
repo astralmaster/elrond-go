@@ -4,12 +4,12 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/errors"
-	"github.com/ElrondNetwork/elrond-go/factory"
-	"github.com/ElrondNetwork/elrond-go/factory/mock"
-	"github.com/ElrondNetwork/elrond-go/sharding"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/errors"
+	"github.com/astralmaster/elrond-go/factory"
+	"github.com/astralmaster/elrond-go/factory/mock"
+	"github.com/astralmaster/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/testscommon"
 	"github.com/stretchr/testify/require"
 )
 

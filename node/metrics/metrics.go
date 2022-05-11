@@ -6,9 +6,9 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/sharding"
 )
 
 const millisecondsInSecond = 1000

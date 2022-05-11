@@ -5,12 +5,12 @@ import (
 
 	mge "github.com/ElrondNetwork/arwen-wasm-vm/v1_4/mandos-go/elrondgo-exporter"
 	mgutil "github.com/ElrondNetwork/arwen-wasm-vm/v1_4/mandos-go/util"
-	"github.com/ElrondNetwork/elrond-go/config"
+	"github.com/astralmaster/elrond-go/config"
 
 	"github.com/ElrondNetwork/elrond-go-core/data/transaction"
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm"
-	"github.com/ElrondNetwork/elrond-go/state"
+	"github.com/astralmaster/elrond-go/integrationTests/vm"
+	"github.com/astralmaster/elrond-go/state"
 	vmcommon "github.com/ElrondNetwork/elrond-vm-common"
 	"github.com/stretchr/testify/require"
 )

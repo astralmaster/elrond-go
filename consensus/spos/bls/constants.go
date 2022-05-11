@@ -2,7 +2,7 @@ package bls
 
 import (
 	"github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/consensus"
+	"github.com/astralmaster/elrond-go/consensus"
 )
 
 var log = logger.GetOrCreate("consensus/spos/bls")

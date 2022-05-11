@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/ElrondNetwork/elrond-go/common"
+	"github.com/astralmaster/elrond-go/common"
 )
 
 // SerializableValidator holds the minimal data required for marshalling and un-marshalling a validator

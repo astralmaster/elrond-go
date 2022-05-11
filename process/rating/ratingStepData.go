@@ -1,7 +1,7 @@
 package rating
 
 import (
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 var _ process.RatingsStepHandler = (*RatingStep)(nil)

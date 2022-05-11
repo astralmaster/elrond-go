@@ -8,8 +8,8 @@ import (
 	"runtime/pprof"
 
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/config"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/config"
 )
 
 var log = logger.GetOrCreate("integrationtests")

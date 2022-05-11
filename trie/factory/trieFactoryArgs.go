@@ -3,8 +3,8 @@ package factory
 import (
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/storage"
 )
 
 // UserAccountTrie represents the use account identifier

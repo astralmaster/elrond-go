@@ -4,9 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/p2p"
-	"github.com/ElrondNetwork/elrond-go/p2p/mock"
-	"github.com/ElrondNetwork/elrond-go/testscommon/p2pmocks"
+	"github.com/astralmaster/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p/mock"
+	"github.com/astralmaster/elrond-go/testscommon/p2pmocks"
 	"github.com/libp2p/go-libp2p-core/network"
 	"github.com/libp2p/go-libp2p-core/protocol"
 	"github.com/stretchr/testify/assert"

@@ -13,9 +13,9 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/data/endProcess"
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/facade"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/update"
+	"github.com/astralmaster/elrond-go/facade"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/update"
 )
 
 const hardforkTriggerString = "hardfork trigger"

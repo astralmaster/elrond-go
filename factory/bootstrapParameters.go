@@ -1,8 +1,8 @@
 package factory
 
 import (
-	"github.com/ElrondNetwork/elrond-go/epochStart/bootstrap"
-	"github.com/ElrondNetwork/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/epochStart/bootstrap"
+	"github.com/astralmaster/elrond-go/sharding"
 )
 
 type bootstrapParams struct {

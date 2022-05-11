@@ -5,10 +5,10 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/data/endProcess"
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/mock"
-	"github.com/ElrondNetwork/elrond-go/sharding"
-	"github.com/ElrondNetwork/elrond-go/storage"
-	"github.com/ElrondNetwork/elrond-go/testscommon/nodeTypeProviderMock"
+	"github.com/astralmaster/elrond-go/integrationTests/mock"
+	"github.com/astralmaster/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/testscommon/nodeTypeProviderMock"
 )
 
 // ArgIndexHashedNodesCoordinatorFactory -

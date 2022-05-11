@@ -1,8 +1,8 @@
 package bls
 
 import (
-	"github.com/ElrondNetwork/elrond-go/consensus"
-	"github.com/ElrondNetwork/elrond-go/consensus/spos"
+	"github.com/astralmaster/elrond-go/consensus"
+	"github.com/astralmaster/elrond-go/consensus/spos"
 )
 
 // peerMaxMessagesPerSec defines how many messages can be propagated by a pid in a round. The value was chosen by

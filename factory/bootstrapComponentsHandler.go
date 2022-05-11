@@ -5,8 +5,8 @@ import (
 	"sync"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/errors"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/errors"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 var _ ComponentHandler = (*managedBootstrapComponents)(nil)

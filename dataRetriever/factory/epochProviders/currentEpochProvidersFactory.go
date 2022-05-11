@@ -1,10 +1,10 @@
 package epochProviders
 
 import (
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever/resolvers/epochproviders"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever/resolvers/epochproviders/disabled"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/dataRetriever/resolvers/epochproviders"
+	"github.com/astralmaster/elrond-go/dataRetriever/resolvers/epochproviders/disabled"
 )
 
 // CreateCurrentEpochProvider will create an instance of dataRetriever.CurrentNetworkEpochProviderHandler

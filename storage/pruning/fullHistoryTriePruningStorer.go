@@ -3,8 +3,8 @@ package pruning
 import (
 	"math"
 
-	"github.com/ElrondNetwork/elrond-go/storage"
-	"github.com/ElrondNetwork/elrond-go/storage/lrucache"
+	"github.com/astralmaster/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/storage/lrucache"
 )
 
 type fullHistoryTriePruningStorer struct {

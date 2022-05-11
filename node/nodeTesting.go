@@ -12,9 +12,9 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data/batch"
 	"github.com/ElrondNetwork/elrond-go-core/data/transaction"
 	"github.com/ElrondNetwork/elrond-go-crypto"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/process/factory"
-	"github.com/ElrondNetwork/elrond-go/state"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/process/factory"
+	"github.com/astralmaster/elrond-go/state"
 )
 
 const maxGoRoutinesSendMessage = 30

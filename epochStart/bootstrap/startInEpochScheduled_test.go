@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
@@ -15,10 +15,10 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data/scheduled"
 	"github.com/ElrondNetwork/elrond-go-core/data/smartContractResult"
 	"github.com/ElrondNetwork/elrond-go-core/data/transaction"
-	"github.com/ElrondNetwork/elrond-go/epochStart"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
-	epochStartMocks "github.com/ElrondNetwork/elrond-go/testscommon/bootstrapMocks/epochStart"
-	"github.com/ElrondNetwork/elrond-go/testscommon/syncer"
+	"github.com/astralmaster/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/testscommon"
+	epochStartMocks "github.com/astralmaster/elrond-go/testscommon/bootstrapMocks/epochStart"
+	"github.com/astralmaster/elrond-go/testscommon/syncer"
 	"github.com/stretchr/testify/require"
 )
 

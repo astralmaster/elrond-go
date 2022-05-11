@@ -5,14 +5,14 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/core/random"
 	"github.com/ElrondNetwork/elrond-go-core/core/throttler"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever/factory/containers"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever/resolvers"
-	triesFactory "github.com/ElrondNetwork/elrond-go/trie/factory"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/dataRetriever/factory/containers"
+	"github.com/astralmaster/elrond-go/dataRetriever/resolvers"
+	triesFactory "github.com/astralmaster/elrond-go/trie/factory"
 
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/process/factory"
+	"github.com/astralmaster/elrond-go/process/factory"
 )
 
 var _ dataRetriever.ResolversContainerFactory = (*metaResolversContainerFactory)(nil)

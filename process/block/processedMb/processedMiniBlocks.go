@@ -4,7 +4,7 @@ import (
 	"sync"
 
 	"github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/process/block/bootstrapStorage"
+	"github.com/astralmaster/elrond-go/process/block/bootstrapStorage"
 )
 
 var log = logger.GetOrCreate("process/processedMb")

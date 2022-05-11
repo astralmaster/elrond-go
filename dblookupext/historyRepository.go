@@ -15,10 +15,10 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/dblookupext/esdtSupply"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/storage"
-	"github.com/ElrondNetwork/elrond-go/storage/lrucache"
+	"github.com/astralmaster/elrond-go/dblookupext/esdtSupply"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/storage/lrucache"
 )
 
 var log = logger.GetOrCreate("dblookupext")

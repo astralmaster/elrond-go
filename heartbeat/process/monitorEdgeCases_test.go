@@ -4,12 +4,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/heartbeat"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/data"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/mock"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/process"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/storage"
-	statusHandlerMock "github.com/ElrondNetwork/elrond-go/testscommon/statusHandler"
+	"github.com/astralmaster/elrond-go/heartbeat"
+	"github.com/astralmaster/elrond-go/heartbeat/data"
+	"github.com/astralmaster/elrond-go/heartbeat/mock"
+	"github.com/astralmaster/elrond-go/heartbeat/process"
+	"github.com/astralmaster/elrond-go/heartbeat/storage"
+	statusHandlerMock "github.com/astralmaster/elrond-go/testscommon/statusHandler"
 	"github.com/stretchr/testify/assert"
 )
 

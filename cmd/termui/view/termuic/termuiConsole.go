@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/cmd/termui/view"
-	"github.com/ElrondNetwork/elrond-go/cmd/termui/view/termuic/termuiRenders"
+	"github.com/astralmaster/elrond-go/cmd/termui/view"
+	"github.com/astralmaster/elrond-go/cmd/termui/view/termuic/termuiRenders"
 	ui "github.com/gizak/termui/v3"
 )
 

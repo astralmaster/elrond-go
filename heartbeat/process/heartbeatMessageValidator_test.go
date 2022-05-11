@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/heartbeat/data"
+	"github.com/astralmaster/elrond-go/heartbeat/data"
 	"github.com/stretchr/testify/require"
 )
 

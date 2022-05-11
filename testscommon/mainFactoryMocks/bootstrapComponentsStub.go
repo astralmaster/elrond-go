@@ -2,10 +2,10 @@ package mainFactoryMocks
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	nodeFactory "github.com/ElrondNetwork/elrond-go/cmd/node/factory"
-	"github.com/ElrondNetwork/elrond-go/factory"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/sharding"
+	nodeFactory "github.com/astralmaster/elrond-go/cmd/node/factory"
+	"github.com/astralmaster/elrond-go/factory"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/sharding"
 )
 
 // BootstrapComponentsStub -

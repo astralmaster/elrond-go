@@ -3,8 +3,8 @@ package containers
 import (
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/core/container"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/update"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/update"
 )
 
 var _ update.AccountsDBSyncContainer = (*accountDBSyncers)(nil)

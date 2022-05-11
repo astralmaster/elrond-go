@@ -1,8 +1,8 @@
 package mock
 
 import (
-	"github.com/ElrondNetwork/elrond-go/factory"
-	"github.com/ElrondNetwork/elrond-go/heartbeat"
+	"github.com/astralmaster/elrond-go/factory"
+	"github.com/astralmaster/elrond-go/heartbeat"
 )
 
 // HeartbeatComponentsStub -

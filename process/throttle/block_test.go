@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/process/throttle"
+	"github.com/astralmaster/elrond-go/process/throttle"
 	"github.com/stretchr/testify/assert"
 )
 

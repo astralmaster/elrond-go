@@ -4,10 +4,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/heartbeat"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/mock"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/process"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/heartbeat"
+	"github.com/astralmaster/elrond-go/heartbeat/mock"
+	"github.com/astralmaster/elrond-go/heartbeat/process"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -5,16 +5,16 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	chainData "github.com/ElrondNetwork/elrond-go-core/data"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/errors"
-	"github.com/ElrondNetwork/elrond-go/sharding"
-	"github.com/ElrondNetwork/elrond-go/state"
-	factoryState "github.com/ElrondNetwork/elrond-go/state/factory"
-	"github.com/ElrondNetwork/elrond-go/state/storagePruningManager"
-	"github.com/ElrondNetwork/elrond-go/state/storagePruningManager/evictionWaitingList"
-	trieFactory "github.com/ElrondNetwork/elrond-go/trie/factory"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/errors"
+	"github.com/astralmaster/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/state"
+	factoryState "github.com/astralmaster/elrond-go/state/factory"
+	"github.com/astralmaster/elrond-go/state/storagePruningManager"
+	"github.com/astralmaster/elrond-go/state/storagePruningManager/evictionWaitingList"
+	trieFactory "github.com/astralmaster/elrond-go/trie/factory"
 )
 
 // TODO: merge this with data components

@@ -2,7 +2,7 @@ package notifier
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
-	"github.com/ElrondNetwork/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/epochStart"
 )
 
 var _ epochStart.ActionHandler = (*handlerStruct)(nil)

@@ -3,7 +3,7 @@ package processor
 import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 var _ process.InterceptorProcessor = (*TxInterceptorProcessor)(nil)

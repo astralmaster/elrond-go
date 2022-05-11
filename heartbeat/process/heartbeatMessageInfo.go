@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/heartbeat"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/heartbeat"
 )
 
 // heartbeatMessageInfo retain the message info received from another node (identified by a public key)

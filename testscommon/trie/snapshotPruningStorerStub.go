@@ -1,6 +1,6 @@
 package trie
 
-import "github.com/ElrondNetwork/elrond-go/storage/memorydb"
+import "github.com/astralmaster/elrond-go/storage/memorydb"
 
 // SnapshotPruningStorerStub -
 type SnapshotPruningStorerStub struct {

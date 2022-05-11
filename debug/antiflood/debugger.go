@@ -11,10 +11,10 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/debug"
-	"github.com/ElrondNetwork/elrond-go/storage"
-	"github.com/ElrondNetwork/elrond-go/storage/lrucache"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/debug"
+	"github.com/astralmaster/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/storage/lrucache"
 )
 
 const sizeUint32 = 4

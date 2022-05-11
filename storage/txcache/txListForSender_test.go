@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/data/transaction"
-	"github.com/ElrondNetwork/elrond-go/testscommon/txcachemocks"
+	"github.com/astralmaster/elrond-go/testscommon/txcachemocks"
 	"github.com/stretchr/testify/require"
 )
 

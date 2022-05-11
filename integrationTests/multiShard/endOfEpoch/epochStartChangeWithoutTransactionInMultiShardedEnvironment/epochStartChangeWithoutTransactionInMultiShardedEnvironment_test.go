@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/integrationTests"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/multiShard/endOfEpoch"
+	"github.com/astralmaster/elrond-go/integrationTests"
+	"github.com/astralmaster/elrond-go/integrationTests/multiShard/endOfEpoch"
 )
 
 func TestEpochStartChangeWithoutTransactionInMultiShardedEnvironment(t *testing.T) {

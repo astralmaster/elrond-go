@@ -7,7 +7,7 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
 	"github.com/ElrondNetwork/elrond-go-core/data/mock"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever/blockchain"
+	"github.com/astralmaster/elrond-go/dataRetriever/blockchain"
 	"github.com/stretchr/testify/assert"
 )
 

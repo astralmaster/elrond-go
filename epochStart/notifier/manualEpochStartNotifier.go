@@ -5,7 +5,7 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/epochStart"
 )
 
 var log = logger.GetOrCreate("epochstart/notifier")

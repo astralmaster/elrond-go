@@ -3,7 +3,7 @@ package economics
 import (
 	"strconv"
 
-	"github.com/ElrondNetwork/elrond-go/config"
+	"github.com/astralmaster/elrond-go/config"
 )
 
 // GetRewardsActiveConfig -

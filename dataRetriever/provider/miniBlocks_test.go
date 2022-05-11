@@ -7,11 +7,11 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	dataBlock "github.com/ElrondNetwork/elrond-go-core/data/block"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever/mock"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever/provider"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
-	storageStubs "github.com/ElrondNetwork/elrond-go/testscommon/storage"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/dataRetriever/mock"
+	"github.com/astralmaster/elrond-go/dataRetriever/provider"
+	"github.com/astralmaster/elrond-go/testscommon"
+	storageStubs "github.com/astralmaster/elrond-go/testscommon/storage"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

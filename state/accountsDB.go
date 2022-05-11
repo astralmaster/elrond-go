@@ -15,8 +15,8 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/errors"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/errors"
 	vmcommon "github.com/ElrondNetwork/elrond-vm-common"
 )
 

@@ -9,11 +9,11 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	"github.com/ElrondNetwork/elrond-go-crypto"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/factory"
-	"github.com/ElrondNetwork/elrond-go/integrationTests"
-	"github.com/ElrondNetwork/elrond-go/process"
-	consensusMocks "github.com/ElrondNetwork/elrond-go/testscommon/consensus"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/factory"
+	"github.com/astralmaster/elrond-go/integrationTests"
+	"github.com/astralmaster/elrond-go/process"
+	consensusMocks "github.com/astralmaster/elrond-go/testscommon/consensus"
 	"github.com/stretchr/testify/assert"
 )
 

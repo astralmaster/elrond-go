@@ -3,11 +3,11 @@ package builtInFunctions
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/process/mock"
-	stateMock "github.com/ElrondNetwork/elrond-go/testscommon/state"
-	"github.com/ElrondNetwork/elrond-go/testscommon/epochNotifier"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process/mock"
+	stateMock "github.com/astralmaster/elrond-go/testscommon/state"
+	"github.com/astralmaster/elrond-go/testscommon/epochNotifier"
 	vmcommonBuiltInFunctions "github.com/ElrondNetwork/elrond-vm-common/builtInFunctions"
 	"github.com/stretchr/testify/assert"
 )

@@ -1,9 +1,9 @@
 package process
 
 import (
-	"github.com/ElrondNetwork/elrond-go/node/external"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/vm"
+	"github.com/astralmaster/elrond-go/node/external"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/vm"
 )
 
 type genesisProcessors struct {

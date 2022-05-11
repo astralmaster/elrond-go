@@ -1,6 +1,6 @@
 package memp2p
 
-import "github.com/ElrondNetwork/elrond-go/p2p"
+import "github.com/astralmaster/elrond-go/p2p"
 
 func (messenger *Messenger) TopicValidator(name string) p2p.MessageProcessor {
 	messenger.topicsMutex.RLock()

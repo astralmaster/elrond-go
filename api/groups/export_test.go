@@ -1,6 +1,6 @@
 package groups
 
-import "github.com/ElrondNetwork/elrond-go/process"
+import "github.com/astralmaster/elrond-go/process"
 
 // ExecManualTrigger -
 const ExecManualTrigger = execManualTrigger

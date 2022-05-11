@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/p2p"
-	"github.com/ElrondNetwork/elrond-go/p2p/memp2p"
-	"github.com/ElrondNetwork/elrond-go/p2p/mock"
+	"github.com/astralmaster/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p/memp2p"
+	"github.com/astralmaster/elrond-go/p2p/mock"
 	"github.com/stretchr/testify/assert"
 )
 

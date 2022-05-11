@@ -3,7 +3,7 @@ package mock
 import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/dataRetriever"
 )
 
 // MiniBlockProvider defines what a miniblock data provider should do

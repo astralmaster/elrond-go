@@ -6,11 +6,11 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	"github.com/ElrondNetwork/elrond-go-core/data/batch"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/state"
-	"github.com/ElrondNetwork/elrond-go/storage"
-	"github.com/ElrondNetwork/elrond-go/storage/memorydb"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/state"
+	"github.com/astralmaster/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/storage/memorydb"
+	"github.com/astralmaster/elrond-go/testscommon"
 	"github.com/stretchr/testify/assert"
 )
 

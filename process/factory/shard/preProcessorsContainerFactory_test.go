@@ -3,14 +3,14 @@ package shard
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/process/mock"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
-	dataRetrieverMock "github.com/ElrondNetwork/elrond-go/testscommon/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/testscommon/epochNotifier"
-	"github.com/ElrondNetwork/elrond-go/testscommon/hashingMocks"
-	stateMock "github.com/ElrondNetwork/elrond-go/testscommon/state"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process/mock"
+	"github.com/astralmaster/elrond-go/testscommon"
+	dataRetrieverMock "github.com/astralmaster/elrond-go/testscommon/dataRetriever"
+	"github.com/astralmaster/elrond-go/testscommon/epochNotifier"
+	"github.com/astralmaster/elrond-go/testscommon/hashingMocks"
+	stateMock "github.com/astralmaster/elrond-go/testscommon/state"
 	"github.com/stretchr/testify/assert"
 )
 

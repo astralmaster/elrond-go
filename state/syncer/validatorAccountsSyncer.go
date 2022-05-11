@@ -4,10 +4,10 @@ import (
 	"context"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/epochStart"
-	"github.com/ElrondNetwork/elrond-go/process/factory"
-	"github.com/ElrondNetwork/elrond-go/trie/statistics"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/process/factory"
+	"github.com/astralmaster/elrond-go/trie/statistics"
 )
 
 var _ epochStart.AccountsDBSyncer = (*validatorAccountsSyncer)(nil)

@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	errorsErd "github.com/ElrondNetwork/elrond-go/errors"
-	"github.com/ElrondNetwork/elrond-go/factory"
+	errorsErd "github.com/astralmaster/elrond-go/errors"
+	"github.com/astralmaster/elrond-go/factory"
 	"github.com/stretchr/testify/require"
 )
 

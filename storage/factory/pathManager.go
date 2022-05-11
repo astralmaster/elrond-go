@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/storage/pathmanager"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/storage/pathmanager"
 )
 
 // ArgCreatePathManager is used to pass the strings to the path manager factory function

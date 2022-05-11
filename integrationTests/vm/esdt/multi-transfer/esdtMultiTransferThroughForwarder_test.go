@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/integrationTests"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm/esdt"
-	"github.com/ElrondNetwork/elrond-go/testscommon/txDataBuilder"
+	"github.com/astralmaster/elrond-go/integrationTests"
+	"github.com/astralmaster/elrond-go/integrationTests/vm/esdt"
+	"github.com/astralmaster/elrond-go/testscommon/txDataBuilder"
 )
 
 func TestESDTMultiTransferThroughForwarder(t *testing.T) {

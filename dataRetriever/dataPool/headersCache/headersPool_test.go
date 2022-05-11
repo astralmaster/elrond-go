@@ -10,8 +10,8 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever/dataPool/headersCache"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/dataRetriever/dataPool/headersCache"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

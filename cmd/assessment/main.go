@@ -12,9 +12,9 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/cmd/assessment/benchmarks"
-	"github.com/ElrondNetwork/elrond-go/cmd/assessment/benchmarks/factory"
-	"github.com/ElrondNetwork/elrond-go/cmd/assessment/hostParameters"
+	"github.com/astralmaster/elrond-go/cmd/assessment/benchmarks"
+	"github.com/astralmaster/elrond-go/cmd/assessment/benchmarks/factory"
+	"github.com/astralmaster/elrond-go/cmd/assessment/hostParameters"
 	"github.com/urfave/cli"
 )
 

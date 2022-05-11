@@ -4,10 +4,10 @@ import (
 	"fmt"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/debug/factory"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/debug/factory"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 // InterceptorResolverDebugger is the contant string for the debugger

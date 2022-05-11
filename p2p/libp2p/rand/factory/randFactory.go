@@ -4,7 +4,7 @@ import (
 	cryptoRand "crypto/rand"
 	"io"
 
-	"github.com/ElrondNetwork/elrond-go/p2p/libp2p/rand"
+	"github.com/astralmaster/elrond-go/p2p/libp2p/rand"
 )
 
 // NewRandFactory will create a reader based on the provided seed string

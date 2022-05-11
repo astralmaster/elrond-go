@@ -5,12 +5,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/debug"
-	"github.com/ElrondNetwork/elrond-go/node/mock"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/debug"
+	"github.com/astralmaster/elrond-go/node/mock"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/testscommon"
 	"github.com/stretchr/testify/assert"
 )
 

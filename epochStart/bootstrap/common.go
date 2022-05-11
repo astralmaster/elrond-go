@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/epochStart"
 )
 
 const baseErrorMessage = "error with epoch start bootstrapper arguments"

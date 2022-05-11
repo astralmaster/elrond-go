@@ -3,7 +3,7 @@ package disabled
 import (
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-crypto"
-	"github.com/ElrondNetwork/elrond-go/genesis"
+	"github.com/astralmaster/elrond-go/genesis"
 )
 
 // MessageSignVerifier represents the message verifier that accepts any message, sign, pk tuple

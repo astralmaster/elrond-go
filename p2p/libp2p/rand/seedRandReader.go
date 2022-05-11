@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"math/rand"
 
-	"github.com/ElrondNetwork/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p"
 )
 
 type seedRandReader struct {

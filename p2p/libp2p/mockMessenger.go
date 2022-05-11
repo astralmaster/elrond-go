@@ -3,7 +3,7 @@ package libp2p
 import (
 	"context"
 
-	"github.com/ElrondNetwork/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p"
 	mocknet "github.com/libp2p/go-libp2p/p2p/net/mock"
 )
 

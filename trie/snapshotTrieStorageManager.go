@@ -3,7 +3,7 @@ package trie
 import (
 	"fmt"
 
-	"github.com/ElrondNetwork/elrond-go/errors"
+	"github.com/astralmaster/elrond-go/errors"
 )
 
 type snapshotTrieStorageManager struct {

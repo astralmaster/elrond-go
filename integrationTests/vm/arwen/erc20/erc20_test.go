@@ -5,7 +5,7 @@ package erc20
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm/arwen"
+	"github.com/astralmaster/elrond-go/integrationTests/vm/arwen"
 	"github.com/stretchr/testify/require"
 )
 

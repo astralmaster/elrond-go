@@ -1,4 +1,4 @@
-module github.com/ElrondNetwork/elrond-go
+module github.com/astralmaster/elrond-go
 
 go 1.15
 

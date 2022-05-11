@@ -12,10 +12,10 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
 	"github.com/ElrondNetwork/elrond-go-crypto"
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/integrationTests"
-	testBlock "github.com/ElrondNetwork/elrond-go/integrationTests/singleShard/block"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/integrationTests"
+	testBlock "github.com/astralmaster/elrond-go/integrationTests/singleShard/block"
+	"github.com/astralmaster/elrond-go/process"
 	"github.com/stretchr/testify/assert"
 )
 

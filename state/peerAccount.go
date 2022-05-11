@@ -4,7 +4,7 @@ package state
 import (
 	"math/big"
 
-	"github.com/ElrondNetwork/elrond-go/common"
+	"github.com/astralmaster/elrond-go/common"
 )
 
 // PeerAccount is the struct used in serialization/deserialization

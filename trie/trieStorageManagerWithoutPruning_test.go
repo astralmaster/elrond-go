@@ -4,10 +4,10 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
-	storageStubs "github.com/ElrondNetwork/elrond-go/testscommon/storage"
-	"github.com/ElrondNetwork/elrond-go/testscommon/trie"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/testscommon"
+	storageStubs "github.com/astralmaster/elrond-go/testscommon/storage"
+	"github.com/astralmaster/elrond-go/testscommon/trie"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,9 +1,9 @@
 package resolvers_test
 
 import (
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/dataRetriever/mock"
-	"github.com/ElrondNetwork/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/dataRetriever/mock"
+	"github.com/astralmaster/elrond-go/p2p"
 )
 
 func createRequestMsg(dataType dataRetriever.RequestDataType, val []byte) p2p.MessageP2P {

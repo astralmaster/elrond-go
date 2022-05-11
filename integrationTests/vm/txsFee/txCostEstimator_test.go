@@ -7,10 +7,10 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/data/scheduled"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm/arwen"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm/txsFee/utils"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/integrationTests/vm"
+	"github.com/astralmaster/elrond-go/integrationTests/vm/arwen"
+	"github.com/astralmaster/elrond-go/integrationTests/vm/txsFee/utils"
 	"github.com/stretchr/testify/require"
 )
 

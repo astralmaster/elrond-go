@@ -10,10 +10,10 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/integrationTests"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm/esdt"
-	"github.com/ElrondNetwork/elrond-go/testscommon/txDataBuilder"
-	"github.com/ElrondNetwork/elrond-go/vm"
+	"github.com/astralmaster/elrond-go/integrationTests"
+	"github.com/astralmaster/elrond-go/integrationTests/vm/esdt"
+	"github.com/astralmaster/elrond-go/testscommon/txDataBuilder"
+	"github.com/astralmaster/elrond-go/vm"
 	"github.com/stretchr/testify/require"
 )
 

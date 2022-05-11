@@ -27,11 +27,11 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data/smartContractResult"
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/mock"
-	"github.com/ElrondNetwork/elrond-go/outport"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/sharding"
-	stateMock "github.com/ElrondNetwork/elrond-go/testscommon/state"
+	"github.com/astralmaster/elrond-go/integrationTests/mock"
+	"github.com/astralmaster/elrond-go/outport"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/sharding"
+	stateMock "github.com/astralmaster/elrond-go/testscommon/state"
 	"github.com/stretchr/testify/require"
 )
 

@@ -1,7 +1,7 @@
 package trigger
 
 import (
-	"github.com/ElrondNetwork/elrond-go/update"
+	"github.com/astralmaster/elrond-go/update"
 )
 
 const HardforkTriggerString = hardforkTriggerString

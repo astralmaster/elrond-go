@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm/arwen/arwenvm"
+	"github.com/astralmaster/elrond-go/integrationTests/vm/arwen/arwenvm"
 )
 
 // ArgErc20Benchmark is the erc20 type benchmark argument used in constructor

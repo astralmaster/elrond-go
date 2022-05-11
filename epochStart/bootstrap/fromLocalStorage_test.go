@@ -7,10 +7,10 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/process/block/bootstrapStorage"
-	"github.com/ElrondNetwork/elrond-go/sharding"
-	storageStubs "github.com/ElrondNetwork/elrond-go/testscommon/storage"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/process/block/bootstrapStorage"
+	"github.com/astralmaster/elrond-go/sharding"
+	storageStubs "github.com/astralmaster/elrond-go/testscommon/storage"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -1,6 +1,6 @@
 package mock
 
-import "github.com/ElrondNetwork/elrond-go/update"
+import "github.com/astralmaster/elrond-go/update"
 
 // ExportFactoryHandlerStub -
 type ExportFactoryHandlerStub struct {

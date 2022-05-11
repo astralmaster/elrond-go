@@ -12,7 +12,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/common"
+	"github.com/astralmaster/elrond-go/common"
 	"github.com/stretchr/testify/require"
 )
 

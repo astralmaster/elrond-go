@@ -1,8 +1,8 @@
 package pruning
 
 import (
-	"github.com/ElrondNetwork/elrond-go/epochStart"
-	"github.com/ElrondNetwork/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/storage"
 )
 
 // EpochStartNotifier defines what a component which will handle registration to epoch start event should do

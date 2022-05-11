@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	rand2 "github.com/ElrondNetwork/elrond-go/p2p/libp2p/rand"
-	"github.com/ElrondNetwork/elrond-go/p2p/libp2p/rand/factory"
+	rand2 "github.com/astralmaster/elrond-go/p2p/libp2p/rand"
+	"github.com/astralmaster/elrond-go/p2p/libp2p/rand/factory"
 	"github.com/stretchr/testify/assert"
 )
 

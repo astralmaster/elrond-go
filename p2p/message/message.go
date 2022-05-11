@@ -2,7 +2,7 @@ package message
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p"
 )
 
 var _ p2p.MessageP2P = (*Message)(nil)

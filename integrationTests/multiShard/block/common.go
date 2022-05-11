@@ -3,7 +3,7 @@ package block
 import (
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/integrationTests"
+	"github.com/astralmaster/elrond-go/integrationTests"
 )
 
 // StepDelay -

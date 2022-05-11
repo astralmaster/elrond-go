@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/state"
-	trieMock "github.com/ElrondNetwork/elrond-go/testscommon/trie"
+	"github.com/astralmaster/elrond-go/state"
+	trieMock "github.com/astralmaster/elrond-go/testscommon/trie"
 	"github.com/stretchr/testify/assert"
 )
 

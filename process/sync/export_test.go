@@ -3,8 +3,8 @@ package sync
 import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 // RequestHeaderWithNonce -

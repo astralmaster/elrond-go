@@ -6,9 +6,9 @@ import (
 	"time"
 
 	logger "github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/integrationTests"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/multiShard/endOfEpoch"
-	"github.com/ElrondNetwork/elrond-go/process/rating"
+	"github.com/astralmaster/elrond-go/integrationTests"
+	"github.com/astralmaster/elrond-go/integrationTests/multiShard/endOfEpoch"
+	"github.com/astralmaster/elrond-go/process/rating"
 )
 
 func TestEpochChangeWithNodesShufflingAndRater(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/data"
-	"github.com/ElrondNetwork/elrond-go/testscommon/genericMocks"
+	"github.com/astralmaster/elrond-go/testscommon/genericMocks"
 	"github.com/stretchr/testify/assert"
 )
 

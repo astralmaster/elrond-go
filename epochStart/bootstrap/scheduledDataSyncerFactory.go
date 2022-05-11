@@ -1,7 +1,7 @@
 package bootstrap
 
 import (
-	"github.com/ElrondNetwork/elrond-go/epochStart/bootstrap/types"
+	"github.com/astralmaster/elrond-go/epochStart/bootstrap/types"
 )
 
 // ScheduledDataSyncerFactory is a factory for the scheduled data syncer

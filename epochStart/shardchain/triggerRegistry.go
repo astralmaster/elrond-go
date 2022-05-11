@@ -8,8 +8,8 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/epochStart"
 )
 
 // LoadState loads into trigger the saved state

@@ -2,8 +2,8 @@ package mock
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/common/statistics"
-	"github.com/ElrondNetwork/elrond-go/outport"
+	"github.com/astralmaster/elrond-go/common/statistics"
+	"github.com/astralmaster/elrond-go/outport"
 )
 
 // StatusComponentsStub -

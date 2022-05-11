@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/dataRetriever"
 	"github.com/stretchr/testify/require"
 )
 

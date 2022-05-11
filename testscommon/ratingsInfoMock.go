@@ -1,6 +1,6 @@
 package testscommon
 
-import "github.com/ElrondNetwork/elrond-go/process"
+import "github.com/astralmaster/elrond-go/process"
 
 // RatingsInfoMock -
 type RatingsInfoMock struct {

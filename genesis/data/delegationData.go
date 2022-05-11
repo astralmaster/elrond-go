@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ElrondNetwork/elrond-go/genesis"
+	"github.com/astralmaster/elrond-go/genesis"
 )
 
 const decodeBase = 10

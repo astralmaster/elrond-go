@@ -11,10 +11,10 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/data/transaction"
-	"github.com/ElrondNetwork/elrond-go/api/errors"
-	"github.com/ElrondNetwork/elrond-go/api/middleware"
-	"github.com/ElrondNetwork/elrond-go/api/shared"
-	txSimData "github.com/ElrondNetwork/elrond-go/process/txsimulator/data"
+	"github.com/astralmaster/elrond-go/api/errors"
+	"github.com/astralmaster/elrond-go/api/middleware"
+	"github.com/astralmaster/elrond-go/api/shared"
+	txSimData "github.com/astralmaster/elrond-go/process/txsimulator/data"
 	"github.com/gin-gonic/gin"
 )
 

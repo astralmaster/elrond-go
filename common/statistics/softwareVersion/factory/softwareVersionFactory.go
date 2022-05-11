@@ -3,8 +3,8 @@ package factory
 import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/common/statistics/softwareVersion"
-	"github.com/ElrondNetwork/elrond-go/config"
+	"github.com/astralmaster/elrond-go/common/statistics/softwareVersion"
+	"github.com/astralmaster/elrond-go/config"
 )
 
 type softwareVersionFactory struct {

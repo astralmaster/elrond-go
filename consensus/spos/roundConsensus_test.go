@@ -3,8 +3,8 @@ package spos_test
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/consensus/spos"
-	"github.com/ElrondNetwork/elrond-go/consensus/spos/bls"
+	"github.com/astralmaster/elrond-go/consensus/spos"
+	"github.com/astralmaster/elrond-go/consensus/spos/bls"
 	"github.com/stretchr/testify/assert"
 )
 

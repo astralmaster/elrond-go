@@ -2,9 +2,9 @@ package types
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
-	"github.com/ElrondNetwork/elrond-go/epochStart"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/update"
+	"github.com/astralmaster/elrond-go/epochStart"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/update"
 )
 
 // ScheduledDataSyncerCreateArgs holds the arguments to create a scheduled data syncer factory

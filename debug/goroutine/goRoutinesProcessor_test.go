@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/debug"
+	"github.com/astralmaster/elrond-go/debug"
 	"github.com/stretchr/testify/assert"
 )
 

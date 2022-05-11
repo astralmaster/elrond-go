@@ -9,9 +9,9 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
-	"github.com/ElrondNetwork/elrond-go/integrationTests"
-	testBlock "github.com/ElrondNetwork/elrond-go/integrationTests/multiShard/block"
-	"github.com/ElrondNetwork/elrond-go/process/factory"
+	"github.com/astralmaster/elrond-go/integrationTests"
+	testBlock "github.com/astralmaster/elrond-go/integrationTests/multiShard/block"
+	"github.com/astralmaster/elrond-go/process/factory"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

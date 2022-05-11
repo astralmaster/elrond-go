@@ -2,7 +2,7 @@ package storageBootstrap
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
-	"github.com/ElrondNetwork/elrond-go/process/block/bootstrapStorage"
+	"github.com/astralmaster/elrond-go/process/block/bootstrapStorage"
 )
 
 // StorageBootstrapper is the main interface for bootstrap from storage execution engine

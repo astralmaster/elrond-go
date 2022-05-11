@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/statusHandler"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/statusHandler"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

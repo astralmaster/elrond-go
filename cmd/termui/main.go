@@ -8,9 +8,9 @@ import (
 	"syscall"
 
 	"github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/cmd/termui/presenter"
-	"github.com/ElrondNetwork/elrond-go/cmd/termui/provider"
-	"github.com/ElrondNetwork/elrond-go/cmd/termui/view/termuic"
+	"github.com/astralmaster/elrond-go/cmd/termui/presenter"
+	"github.com/astralmaster/elrond-go/cmd/termui/provider"
+	"github.com/astralmaster/elrond-go/cmd/termui/view/termuic"
 	"github.com/urfave/cli"
 )
 

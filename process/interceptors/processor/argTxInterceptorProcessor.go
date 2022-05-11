@@ -1,8 +1,8 @@
 package processor
 
 import (
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 // ArgTxInterceptorProcessor is the argument for the interceptor processor used for transactions

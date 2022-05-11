@@ -9,11 +9,11 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/data"
 	"github.com/ElrondNetwork/elrond-go-core/data/block"
 	"github.com/ElrondNetwork/elrond-go-core/data/transaction"
-	"github.com/ElrondNetwork/elrond-go/state"
-	stateMock "github.com/ElrondNetwork/elrond-go/testscommon/state"
-	"github.com/ElrondNetwork/elrond-go/testscommon/hashingMocks"
-	"github.com/ElrondNetwork/elrond-go/update"
-	"github.com/ElrondNetwork/elrond-go/update/mock"
+	"github.com/astralmaster/elrond-go/state"
+	stateMock "github.com/astralmaster/elrond-go/testscommon/state"
+	"github.com/astralmaster/elrond-go/testscommon/hashingMocks"
+	"github.com/astralmaster/elrond-go/update"
+	"github.com/astralmaster/elrond-go/update/mock"
 	"github.com/stretchr/testify/assert"
 )
 

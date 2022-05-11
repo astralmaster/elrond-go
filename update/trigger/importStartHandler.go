@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/update"
+	"github.com/astralmaster/elrond-go/update"
 )
 
 const filename = "mustimport"

@@ -1,8 +1,8 @@
 package mock
 
 import (
-	"github.com/ElrondNetwork/elrond-go/common"
-	trieMock "github.com/ElrondNetwork/elrond-go/testscommon/trie"
+	"github.com/astralmaster/elrond-go/common"
+	trieMock "github.com/astralmaster/elrond-go/testscommon/trie"
 )
 
 // TriesHolderStub -

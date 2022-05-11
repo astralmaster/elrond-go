@@ -12,11 +12,11 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/data/api"
 	"github.com/ElrondNetwork/elrond-go-core/data/esdt"
-	apiErrors "github.com/ElrondNetwork/elrond-go/api/errors"
-	"github.com/ElrondNetwork/elrond-go/api/groups"
-	"github.com/ElrondNetwork/elrond-go/api/mock"
-	"github.com/ElrondNetwork/elrond-go/api/shared"
-	"github.com/ElrondNetwork/elrond-go/config"
+	apiErrors "github.com/astralmaster/elrond-go/api/errors"
+	"github.com/astralmaster/elrond-go/api/groups"
+	"github.com/astralmaster/elrond-go/api/mock"
+	"github.com/astralmaster/elrond-go/api/shared"
+	"github.com/astralmaster/elrond-go/config"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

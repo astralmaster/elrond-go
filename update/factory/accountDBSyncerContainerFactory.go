@@ -8,14 +8,14 @@ import (
 	"github.com/ElrondNetwork/elrond-go-core/core/throttler"
 	"github.com/ElrondNetwork/elrond-go-core/hashing"
 	"github.com/ElrondNetwork/elrond-go-core/marshal"
-	"github.com/ElrondNetwork/elrond-go/common"
-	"github.com/ElrondNetwork/elrond-go/sharding"
-	"github.com/ElrondNetwork/elrond-go/state/syncer"
-	"github.com/ElrondNetwork/elrond-go/storage"
-	"github.com/ElrondNetwork/elrond-go/trie"
-	"github.com/ElrondNetwork/elrond-go/update"
-	containers "github.com/ElrondNetwork/elrond-go/update/container"
-	"github.com/ElrondNetwork/elrond-go/update/genesis"
+	"github.com/astralmaster/elrond-go/common"
+	"github.com/astralmaster/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/state/syncer"
+	"github.com/astralmaster/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/trie"
+	"github.com/astralmaster/elrond-go/update"
+	containers "github.com/astralmaster/elrond-go/update/container"
+	"github.com/astralmaster/elrond-go/update/genesis"
 )
 
 // ArgsNewAccountsDBSyncersContainerFactory defines the arguments needed to create accounts DB syncers container

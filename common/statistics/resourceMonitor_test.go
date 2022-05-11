@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	stats "github.com/ElrondNetwork/elrond-go/common/statistics"
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
+	stats "github.com/astralmaster/elrond-go/common/statistics"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/testscommon"
 	"github.com/stretchr/testify/assert"
 )
 

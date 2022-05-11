@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-logger"
-	"github.com/ElrondNetwork/elrond-go/api/logs"
-	"github.com/ElrondNetwork/elrond-go/api/mock"
+	"github.com/astralmaster/elrond-go/api/logs"
+	"github.com/astralmaster/elrond-go/api/mock"
 	"github.com/gorilla/websocket"
 	"github.com/stretchr/testify/assert"
 )

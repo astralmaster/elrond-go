@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process"
 )
 
 var _ process.PeerBlackListCacher = (*PeerBlacklistCacher)(nil)

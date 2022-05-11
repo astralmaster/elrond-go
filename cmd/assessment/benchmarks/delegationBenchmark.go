@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/integrationTests/vm/arwen/delegation"
+	"github.com/astralmaster/elrond-go/integrationTests/vm/arwen/delegation"
 )
 
 // ArgDelegationBenchmark is the delegation type benchmark argument used in constructor

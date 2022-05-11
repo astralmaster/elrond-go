@@ -10,10 +10,10 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
 	"github.com/ElrondNetwork/elrond-go-core/data/endProcess"
-	"github.com/ElrondNetwork/elrond-go/process/smartContract"
-	"github.com/ElrondNetwork/elrond-go/update"
-	"github.com/ElrondNetwork/elrond-go/update/mock"
-	"github.com/ElrondNetwork/elrond-go/update/trigger"
+	"github.com/astralmaster/elrond-go/process/smartContract"
+	"github.com/astralmaster/elrond-go/update"
+	"github.com/astralmaster/elrond-go/update/mock"
+	"github.com/astralmaster/elrond-go/update/trigger"
 	"github.com/stretchr/testify/assert"
 )
 

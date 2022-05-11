@@ -1,9 +1,9 @@
 package dataRetriever
 
 import (
-	"github.com/ElrondNetwork/elrond-go/dataRetriever"
-	"github.com/ElrondNetwork/elrond-go/storage"
-	"github.com/ElrondNetwork/elrond-go/testscommon"
+	"github.com/astralmaster/elrond-go/dataRetriever"
+	"github.com/astralmaster/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/testscommon"
 )
 
 // PoolsHolderStub -

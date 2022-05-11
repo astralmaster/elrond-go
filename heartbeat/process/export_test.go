@@ -3,8 +3,8 @@ package process
 import (
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/heartbeat"
-	"github.com/ElrondNetwork/elrond-go/heartbeat/data"
+	"github.com/astralmaster/elrond-go/heartbeat"
+	"github.com/astralmaster/elrond-go/heartbeat/data"
 )
 
 const MaxSizeInBytes = maxSizeInBytes

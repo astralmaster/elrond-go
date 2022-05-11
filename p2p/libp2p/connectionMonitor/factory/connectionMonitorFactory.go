@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/p2p"
-	"github.com/ElrondNetwork/elrond-go/p2p/libp2p/connectionMonitor"
+	"github.com/astralmaster/elrond-go/p2p"
+	"github.com/astralmaster/elrond-go/p2p/libp2p/connectionMonitor"
 )
 
 // ArgsConnectionMonitorFactory represents the argument for the connection monitor factory

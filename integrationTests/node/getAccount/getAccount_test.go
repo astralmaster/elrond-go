@@ -3,8 +3,8 @@ package getAccount
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/integrationTests"
-	"github.com/ElrondNetwork/elrond-go/node"
+	"github.com/astralmaster/elrond-go/integrationTests"
+	"github.com/astralmaster/elrond-go/node"
 	"github.com/stretchr/testify/assert"
 )
 

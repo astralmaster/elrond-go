@@ -2,7 +2,7 @@ package mock
 
 import (
 	"github.com/ElrondNetwork/elrond-go-core/data/transaction"
-	txSimData "github.com/ElrondNetwork/elrond-go/process/txsimulator/data"
+	txSimData "github.com/astralmaster/elrond-go/process/txsimulator/data"
 )
 
 // TransactionSimulatorStub -

@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
-	"github.com/ElrondNetwork/elrond-go/cmd/termui/view"
-	"github.com/ElrondNetwork/elrond-go/common"
+	"github.com/astralmaster/elrond-go/cmd/termui/view"
+	"github.com/astralmaster/elrond-go/common"
 	ui "github.com/gizak/termui/v3"
 	"github.com/gizak/termui/v3/widgets"
 )

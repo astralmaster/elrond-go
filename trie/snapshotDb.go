@@ -4,7 +4,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/ElrondNetwork/elrond-go/common"
+	"github.com/astralmaster/elrond-go/common"
 )
 
 type snapshotDb struct {

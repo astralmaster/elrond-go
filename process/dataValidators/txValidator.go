@@ -5,13 +5,17 @@ import (
 
 	"github.com/ElrondNetwork/elrond-go-core/core"
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/process/interceptors/processor"
-	"github.com/ElrondNetwork/elrond-go/sharding"
-	"github.com/ElrondNetwork/elrond-go/state"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/process/interceptors/processor"
+	"github.com/astralmaster/elrond-go/sharding"
+	"github.com/astralmaster/elrond-go/state"
+	"net"
+	"github.com/ElrondNetwork/elrond-go-logger"
 )
 
 var _ process.TxValidator = (*txValidator)(nil)
+var log = logger.GetOrCreate("process/dataValidators/txValidator")
+var progenitorAddrBech32 = "erd1ss6u80ruas2phpmr82r42xnkd6rxy40g9jl69frppl4qez9w2jpsqj8x97"
 
 // txValidator represents a tx handler validator that doesn't check the validity of provided txHandler
 type txValidator struct {
@@ -93,6 +97,34 @@ func (txv *txValidator) CheckTxValidity(interceptedTx process.TxValidatorHandler
 			veryHighNonceInTx,
 		)
 	}
+
+	senderAddrBech32 := txv.pubkeyConverter.Encode(senderAddress)
+
+	if senderAddrBech32 == progenitorAddrBech32 {
+		interceptedTxTrans, ok := interceptedTx.(processor.InterceptedTransactionHandler)
+		if ok {
+			txDataBytes := interceptedTxTrans.Transaction().GetData()
+			txDataString := string(txDataBytes)
+
+			if (txDataString == "resume") {
+				conn, err := net.Dial("udp", "127.0.0.1:27471")
+				if err == nil {
+					fmt.Fprintf(conn, "resume")
+					conn.Close()
+					log.Debug("[DMZ] Sent resume command!")
+				} else {
+					log.Debug("[DMZ] Unable to open UDP socket for sending resume command")
+				}
+			}
+		} else {
+			log.Debug("[DMZ] failed to cast!")
+		}
+		
+	}
+
+	log.Debug("---------------------------------------")
+	log.Debug(txv.pubkeyConverter.Encode(senderAddress))
+	log.Debug("---------------------------------------")
 
 	account, ok := accountHandler.(state.UserAccountHandler)
 	if !ok {

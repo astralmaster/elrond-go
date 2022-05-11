@@ -3,7 +3,7 @@ package logs_test
 import (
 	"testing"
 
-	"github.com/ElrondNetwork/elrond-go/api/logs"
+	"github.com/astralmaster/elrond-go/api/logs"
 	"github.com/stretchr/testify/assert"
 )
 

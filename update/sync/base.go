@@ -4,8 +4,8 @@ import (
 	"time"
 
 	"github.com/ElrondNetwork/elrond-go-core/core/check"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/update"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/update"
 )
 
 // GetDataFromStorage searches for data from storage

@@ -4,8 +4,8 @@ import (
 	"errors"
 
 	"github.com/ElrondNetwork/elrond-go-core/data"
-	"github.com/ElrondNetwork/elrond-go/dblookupext"
-	"github.com/ElrondNetwork/elrond-go/dblookupext/esdtSupply"
+	"github.com/astralmaster/elrond-go/dblookupext"
+	"github.com/astralmaster/elrond-go/dblookupext/esdtSupply"
 )
 
 var errorDisabledHistoryRepository = errors.New("history repository is disabled")

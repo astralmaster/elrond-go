@@ -1,6 +1,6 @@
 package bootstrapMocks
 
-import "github.com/ElrondNetwork/elrond-go/sharding"
+import "github.com/astralmaster/elrond-go/sharding"
 
 // BootstrapParamsHandlerMock -
 type BootstrapParamsHandlerMock struct {

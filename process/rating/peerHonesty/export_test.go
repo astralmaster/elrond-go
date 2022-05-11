@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/ElrondNetwork/elrond-go/config"
-	"github.com/ElrondNetwork/elrond-go/process"
-	"github.com/ElrondNetwork/elrond-go/storage"
+	"github.com/astralmaster/elrond-go/config"
+	"github.com/astralmaster/elrond-go/process"
+	"github.com/astralmaster/elrond-go/storage"
 )
 
 func NewP2pPeerHonestyWithCustomExecuteDelayFunction(
